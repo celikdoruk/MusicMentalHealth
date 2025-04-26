@@ -1,6 +1,7 @@
 A Survey: Music's Relationship with Mental Health
 
 📊 Project Overview
+
 This project explores the relationship between music listening habits and mental health indicators such as anxiety, depression, OCD, and insomnia.
 Using survey data, I built a Power BI dashboard to visualize insights and better understand how different genres, listening frequencies, and age groups interact with mental health outcomes.
 
