@@ -1,0 +1,737 @@
+submission_id,timestamp,age,primary_streaming_service,hours_per_day,while_working,instrumentalist,composer,fav_genre,exploratory,foreign_languages,bpm
+1,8/27/2022 19:29:02,18,Spotify,3,Yes,Yes,Yes,Latin,Yes,Yes,156
+2,8/27/2022 19:57:31,63,Pandora,1.5,Yes,No,No,Rock,Yes,No,119
+3,8/27/2022 21:28:18,18,Spotify,4,No,No,No,Video game music,No,Yes,132
+4,8/27/2022 21:40:40,61,YouTube Music,2.5,Yes,No,Yes,Jazz,Yes,Yes,84
+5,8/27/2022 21:54:47,18,Spotify,4,Yes,No,No,R&B,Yes,No,107
+6,8/27/2022 21:56:50,18,Spotify,5,Yes,Yes,Yes,Jazz,Yes,Yes,86
+7,8/27/2022 22:00:29,18,YouTube Music,3,Yes,Yes,No,Video game music,Yes,Yes,66
+8,8/27/2022 22:18:59,21,Spotify,1,Yes,No,No,K pop,Yes,Yes,95
+9,8/27/2022 22:33:05,19,Spotify,6,Yes,No,No,Rock,No,No,94
+10,8/27/2022 22:44:03,18,I do not use a streaming service.,1,Yes,No,No,R&B,Yes,Yes,155
+11,8/27/2022 22:51:15,18,Spotify,3,Yes,Yes,No,Country,Yes,No,
+12,8/27/2022 23:00:32,19,YouTube Music,8,Yes,No,No,EDM,Yes,No,125
+13,8/27/2022 23:04:00,,Spotify,3,Yes,No,No,Hip hop,Yes,Yes,
+14,8/27/2022 23:12:03,19,Spotify,2,Yes,No,No,Country,Yes,No,88
+15,8/27/2022 23:16:06,18,Spotify,4,Yes,Yes,No,Jazz,Yes,Yes,148
+16,8/27/2022 23:19:52,17,Spotify,2,No,No,No,Pop,Yes,Yes,
+17,8/27/2022 23:39:41,16,Spotify,8,Yes,No,No,Hip hop,Yes,Yes,103
+18,8/27/2022 23:39:49,16,Spotify,12,Yes,No,Yes,Hip hop,Yes,Yes,120
+19,8/27/2022 23:40:55,17,Spotify,24,Yes,No,No,Rap,Yes,No,99
+20,8/27/2022 23:41:36,15,Spotify,3,No,No,No,Hip hop,No,No,120
+21,8/27/2022 23:43:06,15,Apple Music,8,Yes,No,No,Hip hop,Yes,Yes,120
+22,8/28/2022 0:28:02,17,Spotify,4,Yes,No,No,Rap,Yes,No,125
+23,8/28/2022 1:39:02,19,I do not use a streaming service.,5,Yes,No,No,R&B,Yes,Yes,118
+24,8/28/2022 3:19:08,18,Spotify,2,Yes,No,No,Pop,No,Yes,79
+25,8/28/2022 4:13:11,16,Other streaming service,3,Yes,Yes,Yes,Rock,Yes,Yes,84
+26,8/28/2022 4:38:14,18,Spotify,2,No,No,No,Pop,Yes,Yes,169
+27,8/28/2022 4:40:36,14,Spotify,12,Yes,Yes,Yes,Rock,Yes,Yes,136
+28,8/28/2022 5:05:51,18,YouTube Music,6,Yes,Yes,Yes,Pop,No,Yes,101
+29,8/28/2022 5:16:30,17,Spotify,2,Yes,Yes,No,Pop,Yes,Yes,126
+30,8/28/2022 8:36:27,17,Apple Music,1,Yes,No,No,Pop,Yes,No,183
+31,8/28/2022 10:30:22,20,Apple Music,5,Yes,Yes,No,Rock,Yes,Yes,
+32,8/28/2022 10:38:05,19,Spotify,2,Yes,No,No,Classical,No,No,120
+33,8/28/2022 10:54:30,19,Spotify,6,Yes,Yes,No,Metal,Yes,Yes,
+34,8/28/2022 10:59:53,17,Spotify,4,No,No,No,Rock,Yes,Yes,142
+35,8/28/2022 11:08:51,16,Spotify,1,Yes,No,No,Classical,No,No,75
+36,8/28/2022 11:13:25,18,Spotify,5,Yes,Yes,No,Pop,Yes,No,120
+37,8/28/2022 11:25:49,21,Spotify,4,Yes,No,No,Pop,No,Yes,89
+38,8/28/2022 11:27:15,17,Other streaming service,3,Yes,No,No,Pop,Yes,No,
+39,8/28/2022 11:36:35,26,Other streaming service,0.5,No,No,No,Rock,No,Yes,140
+40,8/28/2022 11:39:21,20,Spotify,4,Yes,No,No,EDM,Yes,No,161
+41,8/28/2022 11:50:31,23,YouTube Music,2,Yes,Yes,Yes,Video game music,Yes,No,80
+42,8/28/2022 11:54:45,18,Spotify,5,Yes,Yes,No,Rock,Yes,No,130
+43,8/28/2022 11:55:54,37,YouTube Music,0.25,No,No,No,Video game music,Yes,No,147
+44,8/28/2022 11:58:48,17,Spotify,3,Yes,No,No,Classical,Yes,Yes,120
+45,8/28/2022 12:08:29,18,Spotify,4,Yes,No,No,Metal,Yes,Yes,77
+46,8/28/2022 12:12:35,17,I do not use a streaming service.,1,Yes,Yes,Yes,Folk,No,No,118
+47,8/28/2022 12:15:02,36,Spotify,1,No,Yes,Yes,Classical,No,No,132
+48,8/28/2022 12:23:52,24,Spotify,3,Yes,No,No,Rock,Yes,Yes,115
+49,8/28/2022 12:30:08,18,Spotify,5,Yes,No,Yes,Metal,Yes,Yes,157
+50,8/28/2022 12:32:09,19,Spotify,3,Yes,No,No,Pop,No,Yes,90
+51,8/28/2022 12:37:17,17,Apple Music,2,Yes,Yes,No,EDM,Yes,No,128
+52,8/28/2022 12:39:49,16,Spotify,6,Yes,No,No,K pop,Yes,Yes,169
+53,8/28/2022 12:52:19,23,Apple Music,1,No,No,No,Rap,No,Yes,140
+54,8/28/2022 12:53:01,23,Spotify,12,Yes,No,No,Pop,Yes,Yes,96
+55,8/28/2022 12:54:35,22,Spotify,4,Yes,No,Yes,Rock,Yes,Yes,126
+56,8/28/2022 13:01:42,16,Apple Music,2,Yes,Yes,No,Classical,Yes,No,
+57,8/28/2022 13:05:46,18,Spotify,6,Yes,No,No,Rock,Yes,No,91
+58,8/28/2022 13:08:24,42,I do not use a streaming service.,0,,No,No,Rock,No,Yes,
+59,8/28/2022 13:09:53,23,Spotify,7,Yes,No,No,Folk,Yes,Yes,55
+60,8/28/2022 13:18:19,23,I do not use a streaming service.,1,Yes,Yes,No,Video game music,No,No,85
+61,8/28/2022 13:22:36,19,YouTube Music,1,No,Yes,No,K pop,Yes,Yes,160
+62,8/28/2022 13:22:53,22,Pandora,1,No,Yes,No,Rock,Yes,No,108
+63,8/28/2022 13:34:00,15,Other streaming service,2,Yes,Yes,No,Rock,No,No,156
+64,8/28/2022 13:34:27,25,Spotify,2,No,No,No,Metal,No,Yes,170
+65,8/28/2022 13:42:20,32,Spotify,5,Yes,No,No,Rock,No,Yes,91
+66,8/28/2022 13:43:06,36,Spotify,6,Yes,No,No,Metal,Yes,Yes,174
+67,8/28/2022 13:46:03,24,Spotify,3,No,No,No,Rock,Yes,Yes,130
+68,8/28/2022 13:48:11,29,Spotify,4,No,No,No,Hip hop,Yes,No,140
+69,8/28/2022 13:55:45,41,Apple Music,3,Yes,Yes,Yes,Metal,Yes,Yes,130
+70,8/28/2022 13:57:47,36,I do not use a streaming service.,2,Yes,Yes,Yes,Rock,Yes,No,127
+71,8/28/2022 13:59:16,19,YouTube Music,3,Yes,No,No,Rock,Yes,No,160
+72,8/28/2022 14:00:18,31,Spotify,2,Yes,No,No,Rock,Yes,Yes,
+73,8/28/2022 14:01:08,16,Spotify,4,Yes,No,No,Rock,No,Yes,
+74,8/28/2022 14:02:12,26,Spotify,2,Yes,Yes,Yes,Hip hop,Yes,Yes,165
+75,8/28/2022 14:04:09,22,Apple Music,0.5,No,No,No,Hip hop,No,No,113
+76,8/28/2022 14:04:20,16,Spotify,5,Yes,Yes,Yes,Jazz,Yes,Yes,167
+77,8/28/2022 14:07:29,17,Spotify,5,Yes,No,No,Metal,Yes,Yes,95
+78,8/28/2022 14:08:57,19,Spotify,10,Yes,No,No,R&B,Yes,Yes,110
+79,8/28/2022 14:10:04,18,YouTube Music,2,No,No,No,EDM,No,Yes,150
+80,8/28/2022 14:10:17,18,YouTube Music,4,Yes,No,No,Hip hop,Yes,Yes,93
+81,8/28/2022 14:12:55,19,Spotify,5,No,Yes,Yes,Rock,Yes,Yes,90
+82,8/28/2022 14:14:48,19,Spotify,3,Yes,No,No,Jazz,Yes,No,118
+83,8/28/2022 14:18:22,22,Spotify,2,Yes,No,No,K pop,Yes,Yes,126
+84,8/28/2022 14:24:10,16,Spotify,2.5,Yes,Yes,Yes,Rock,Yes,Yes,103
+85,8/28/2022 14:25:08,19,Spotify,3,Yes,No,No,R&B,Yes,Yes,77
+86,8/28/2022 14:26:12,37,Spotify,1,Yes,No,No,Rock,No,No,115
+87,8/28/2022 14:29:29,14,Spotify,7,Yes,Yes,No,Jazz,No,No,110
+88,8/28/2022 14:30:34,33,I do not use a streaming service.,1,No,No,No,Metal,No,Yes,
+89,8/28/2022 14:38:19,26,Spotify,1,No,No,No,R&B,No,No,113
+90,8/28/2022 14:41:04,32,Spotify,3,Yes,No,No,Hip hop,No,No,157
+91,8/28/2022 14:45:44,30,Spotify,5,Yes,Yes,No,Metal,Yes,No,160
+92,8/28/2022 14:47:08,43,I do not use a streaming service.,6,Yes,Yes,Yes,Video game music,Yes,Yes,109
+93,8/28/2022 14:49:18,24,Spotify,4,Yes,No,No,Classical,Yes,Yes,175
+94,8/28/2022 14:51:02,36,YouTube Music,1,Yes,No,No,Rock,Yes,No,110
+95,8/28/2022 14:58:17,19,YouTube Music,4,Yes,No,No,Video game music,Yes,No,162
+96,8/28/2022 14:59:05,22,Spotify,10,Yes,No,No,Metal,Yes,Yes,189
+97,8/28/2022 15:02:14,20,Spotify,3,No,No,Yes,EDM,Yes,Yes,121
+98,8/28/2022 15:03:51,31,Spotify,2,No,No,No,Rock,Yes,No,200
+99,8/28/2022 15:03:56,19,Spotify,4,Yes,No,No,Metal,Yes,Yes,105
+100,8/28/2022 15:07:16,15,Spotify,8,Yes,No,No,Rock,No,No,193
+101,8/28/2022 15:09:31,18,Spotify,2,No,Yes,Yes,Metal,Yes,Yes,149
+102,8/28/2022 15:22:00,25,I do not use a streaming service.,0.5,No,Yes,No,Classical,No,No,140
+103,8/28/2022 15:32:38,17,Apple Music,5,Yes,No,No,Metal,Yes,No,134
+104,8/28/2022 15:41:56,28,YouTube Music,1,No,No,No,Rock,Yes,No,120
+105,8/28/2022 16:04:58,20,Spotify,3,Yes,No,No,Rock,Yes,Yes,170
+106,8/28/2022 16:07:28,21,YouTube Music,2,Yes,Yes,No,Metal,Yes,Yes,107
+107,8/28/2022 16:07:51,41,Spotify,3,Yes,No,No,Pop,No,Yes,113
+108,8/28/2022 16:08:12,20,Spotify,2,Yes,Yes,No,Pop,Yes,No,126
+109,8/28/2022 16:13:28,34,Other streaming service,4,Yes,No,No,Metal,Yes,Yes,161
+110,8/28/2022 16:15:08,21,YouTube Music,3,Yes,No,Yes,Metal,Yes,No,
+111,8/28/2022 16:15:08,23,Spotify,2,Yes,No,No,Metal,Yes,Yes,100
+112,8/28/2022 16:15:39,16,Spotify,3,No,No,No,Pop,No,No,140
+113,8/28/2022 16:15:58,19,YouTube Music,4,Yes,No,No,Pop,Yes,No,156
+114,8/28/2022 16:23:43,22,Spotify,2,Yes,Yes,No,Rock,Yes,Yes,98
+115,8/28/2022 16:27:00,19,Spotify,8,Yes,No,No,K pop,Yes,Yes,100
+116,8/28/2022 16:30:17,23,Spotify,4,Yes,No,No,Hip hop,Yes,Yes,78
+117,8/28/2022 16:30:36,23,Spotify,2,No,Yes,No,Metal,No,Yes,117
+118,8/28/2022 16:32:40,22,Spotify,1,No,No,Yes,EDM,Yes,No,128
+119,8/28/2022 16:34:03,17,Spotify,3,Yes,No,No,Rock,Yes,No,130
+120,8/28/2022 16:37:00,28,Spotify,0.5,No,No,No,Folk,Yes,No,130
+121,8/28/2022 16:37:10,23,Spotify,2,No,No,No,Rock,Yes,Yes,
+122,8/28/2022 16:53:26,19,Apple Music,3,Yes,No,No,Rock,Yes,Yes,126
+123,8/28/2022 16:58:35,17,Spotify,2,Yes,Yes,Yes,Hip hop,Yes,Yes,122
+124,8/28/2022 17:14:08,21,YouTube Music,1,No,No,No,Rock,Yes,No,179
+125,8/28/2022 17:14:32,29,Other streaming service,5,Yes,No,No,Jazz,Yes,Yes,200
+126,8/28/2022 17:15:18,22,Spotify,10,No,Yes,Yes,EDM,No,Yes,128
+127,8/28/2022 17:15:27,18,Spotify,4,Yes,Yes,Yes,Pop,Yes,Yes,130
+128,8/28/2022 17:19:10,13,Spotify,2,Yes,Yes,Yes,Rock,Yes,No,120
+129,8/28/2022 17:27:12,24,Spotify,1,No,No,No,Metal,Yes,No,86
+130,8/28/2022 17:32:18,35,Spotify,6,Yes,No,No,Rock,Yes,Yes,166
+131,8/28/2022 17:33:12,29,YouTube Music,1,Yes,Yes,No,Video game music,Yes,No,110
+132,8/28/2022 17:37:42,28,Spotify,6,Yes,No,No,Rock,No,No,144
+133,8/28/2022 17:40:15,32,Spotify,7,Yes,No,No,Pop,Yes,Yes,120
+134,8/28/2022 17:41:15,32,Other streaming service,1,No,No,No,EDM,Yes,No,120
+135,8/28/2022 17:43:22,21,Spotify,3,Yes,Yes,No,Rock,Yes,No,160
+136,8/28/2022 17:54:30,18,Spotify,2,Yes,Yes,No,Video game music,No,Yes,101
+137,8/28/2022 17:56:27,19,Spotify,3,Yes,Yes,No,Classical,Yes,No,122
+138,8/28/2022 18:02:14,18,Apple Music,2,Yes,Yes,No,Pop,Yes,Yes,
+139,8/28/2022 18:03:27,16,YouTube Music,3,Yes,No,Yes,Pop,No,No,
+140,8/28/2022 18:03:50,25,Spotify,1.5,Yes,No,No,Pop,No,No,61
+141,8/28/2022 18:06:24,17,Spotify,4,Yes,No,No,Lofi,Yes,Yes,79
+142,8/28/2022 18:08:44,16,Spotify,2,Yes,No,No,Rap,Yes,Yes,126
+143,8/28/2022 18:13:47,27,Spotify,10,Yes,No,No,Metal,Yes,Yes,185
+144,8/28/2022 18:17:00,53,Spotify,7,Yes,No,No,Pop,Yes,Yes,92
+145,8/28/2022 18:17:46,25,Spotify,1,Yes,No,No,EDM,No,No,107
+146,8/28/2022 18:18:12,34,Spotify,2,No,No,No,Metal,No,No,120
+147,8/28/2022 18:18:18,22,Other streaming service,6,Yes,Yes,Yes,Jazz,Yes,Yes,140
+148,8/28/2022 18:18:24,17,Spotify,2,Yes,Yes,Yes,Jazz,Yes,No,94
+149,8/28/2022 18:21:19,26,Spotify,3,Yes,Yes,No,Folk,Yes,No,160
+150,8/28/2022 18:28:48,19,Spotify,8,Yes,No,No,EDM,Yes,No,174
+151,8/28/2022 18:30:21,21,Spotify,3,Yes,No,No,Pop,Yes,Yes,136
+152,8/28/2022 18:33:32,32,Spotify,3,Yes,Yes,Yes,Rock,Yes,Yes,144
+153,8/28/2022 18:35:17,21,I do not use a streaming service.,3,Yes,No,No,Rock,No,No,77
+154,8/28/2022 18:51:10,25,Spotify,2,No,Yes,No,Pop,No,No,120
+155,8/28/2022 18:53:03,26,Spotify,1,No,No,No,Rock,No,No,
+156,8/28/2022 18:54:47,21,Spotify,2,Yes,Yes,No,Metal,Yes,Yes,
+157,8/28/2022 18:55:44,17,Spotify,2,Yes,Yes,No,Pop,No,Yes,
+158,8/28/2022 18:56:54,28,I do not use a streaming service.,4,Yes,No,No,Rock,Yes,Yes,194
+159,8/28/2022 18:57:39,41,YouTube Music,4,Yes,No,No,Pop,Yes,No,60
+160,8/28/2022 18:58:09,18,Spotify,1,Yes,Yes,No,Metal,Yes,Yes,190
+161,8/28/2022 18:58:27,22,Spotify,2,No,No,No,R&B,No,Yes,87
+162,8/28/2022 18:59:40,18,Other streaming service,2,Yes,No,No,K pop,No,Yes,122
+163,8/28/2022 18:59:53,49,Other streaming service,1,Yes,No,No,EDM,Yes,No,156
+164,8/28/2022 19:04:05,21,Spotify,3,Yes,Yes,Yes,Metal,Yes,No,150
+165,8/28/2022 19:04:26,27,Spotify,10,Yes,No,No,Metal,Yes,Yes,194
+166,8/28/2022 19:07:16,19,Spotify,1,No,No,Yes,Metal,Yes,Yes,160
+167,8/28/2022 19:10:07,27,Spotify,3,Yes,No,No,Metal,Yes,Yes,171
+168,8/28/2022 19:12:02,27,Spotify,1.5,Yes,No,No,Rock,No,No,95
+169,8/28/2022 19:16:43,19,Spotify,3,Yes,Yes,No,K pop,Yes,Yes,114
+170,8/28/2022 19:18:53,42,YouTube Music,2.5,Yes,Yes,No,Rock,No,Yes,148
+171,8/28/2022 19:20:03,60,Pandora,2,Yes,No,No,Gospel,No,No,119
+172,8/28/2022 19:22:30,19,YouTube Music,5,Yes,No,No,Metal,No,Yes,136
+173,8/28/2022 19:26:23,20,Apple Music,2,Yes,No,No,Pop,Yes,No,141
+174,8/28/2022 19:27:46,28,Spotify,2,No,No,Yes,Metal,No,No,146
+175,8/28/2022 19:29:08,16,I do not use a streaming service.,2,No,Yes,Yes,Video game music,Yes,No,
+176,8/28/2022 19:29:25,18,Spotify,2,Yes,No,No,R&B,No,Yes,164
+177,8/28/2022 19:30:42,34,Spotify,1,Yes,No,No,Rock,Yes,Yes,
+178,8/28/2022 19:30:49,18,YouTube Music,1.5,Yes,No,No,Pop,Yes,No,
+179,8/28/2022 19:35:58,21,Spotify,5,Yes,Yes,Yes,Folk,Yes,Yes,128
+180,8/28/2022 19:40:03,38,Spotify,0.5,No,No,No,Rock,Yes,Yes,
+181,8/28/2022 19:46:02,17,Spotify,2,Yes,No,No,Rock,No,Yes,
+182,8/28/2022 19:46:57,35,Other streaming service,0.5,No,No,No,Pop,No,No,
+183,8/28/2022 19:50:30,21,I do not use a streaming service.,2,Yes,No,No,Rock,No,Yes,101
+184,8/28/2022 19:56:46,25,Apple Music,2.5,Yes,No,No,R&B,No,No,
+185,8/28/2022 19:59:01,18,Spotify,2,Yes,Yes,No,K pop,Yes,Yes,98
+186,8/28/2022 20:01:29,16,Apple Music,2,No,No,No,Pop,Yes,No,145
+187,8/28/2022 20:04:49,19,Spotify,1,Yes,No,No,Pop,Yes,Yes,94
+188,8/28/2022 20:12:05,31,Spotify,4,Yes,Yes,No,Classical,No,Yes,103
+189,8/28/2022 20:14:02,26,Spotify,5,Yes,No,No,Rock,No,No,
+190,8/28/2022 20:14:47,16,Spotify,2,Yes,Yes,Yes,Rock,No,No,112
+191,8/28/2022 20:15:28,26,Spotify,2,Yes,Yes,No,Rock,Yes,Yes,
+192,8/28/2022 20:20:20,17,Spotify,2,Yes,No,No,R&B,Yes,Yes,118
+193,8/28/2022 20:20:52,22,Spotify,1,Yes,Yes,No,Video game music,Yes,Yes,
+194,8/28/2022 20:32:41,20,Apple Music,4,Yes,No,No,R&B,Yes,Yes,113
+195,8/28/2022 20:33:43,30,Spotify,1,No,Yes,No,Rock,Yes,No,162
+196,8/28/2022 20:37:41,26,Other streaming service,4,Yes,No,No,Pop,No,No,
+197,8/28/2022 20:43:43,19,Spotify,5,Yes,No,No,Rock,Yes,Yes,111
+198,8/28/2022 20:50:37,21,,5,Yes,No,No,Country,Yes,No,85
+199,8/28/2022 20:57:16,33,Spotify,7,Yes,No,No,Rock,Yes,Yes,134
+200,8/28/2022 20:57:57,28,YouTube Music,2,Yes,No,No,Rock,Yes,No,172
+201,8/28/2022 21:01:18,25,Spotify,3,Yes,No,No,Rock,Yes,Yes,180
+202,8/28/2022 21:03:23,22,YouTube Music,2,Yes,No,No,Pop,No,No,120
+203,8/28/2022 21:06:09,19,Spotify,3,Yes,No,Yes,Rock,Yes,Yes,76
+204,8/28/2022 21:11:09,44,Other streaming service,3,Yes,No,No,Folk,Yes,Yes,130
+205,8/28/2022 21:14:34,22,Spotify,3,Yes,No,No,Rock,No,No,
+206,8/28/2022 21:14:51,26,Spotify,5,Yes,Yes,Yes,Metal,Yes,Yes,109
+207,8/28/2022 21:23:07,23,I do not use a streaming service.,6,Yes,No,Yes,Classical,No,Yes,96
+208,8/28/2022 21:24:10,17,Spotify,2,No,No,No,R&B,No,Yes,148
+209,8/28/2022 21:26:19,42,YouTube Music,2,No,No,No,Metal,Yes,No,
+210,8/28/2022 21:28:30,30,Spotify,1,No,Yes,No,Rock,Yes,No,129
+211,8/28/2022 21:30:33,35,Spotify,1,Yes,No,No,Pop,Yes,Yes,81
+212,8/28/2022 21:30:41,20,Spotify,3,No,No,No,Rock,Yes,No,136
+213,8/28/2022 21:31:40,18,Spotify,3,Yes,No,No,Rap,Yes,Yes,155
+214,8/28/2022 21:47:26,21,Spotify,1,No,No,No,Pop,No,Yes,
+215,8/28/2022 21:48:12,19,Spotify,6,Yes,No,No,Rock,Yes,Yes,52
+216,8/28/2022 21:48:29,37,Spotify,4,Yes,No,No,Rock,Yes,No,97
+217,8/28/2022 21:52:44,31,Spotify,2,Yes,No,No,Metal,Yes,Yes,92
+218,8/28/2022 21:54:05,29,Spotify,2,Yes,Yes,No,Folk,Yes,Yes,100
+219,8/28/2022 21:55:05,20,Spotify,3,Yes,No,No,Rock,Yes,Yes,120
+220,8/28/2022 21:55:22,36,I do not use a streaming service.,8,Yes,Yes,Yes,Video game music,No,Yes,143
+221,8/28/2022 22:03:40,18,Spotify,3,Yes,Yes,No,Rock,Yes,No,118
+222,8/28/2022 22:04:16,18,Spotify,2,Yes,No,No,K pop,Yes,Yes,130
+223,8/28/2022 22:05:53,25,Spotify,7,Yes,No,No,Pop,No,Yes,120
+224,8/28/2022 22:06:46,18,YouTube Music,12,Yes,,No,K pop,Yes,Yes,126
+225,8/28/2022 22:09:11,31,YouTube Music,9,Yes,No,No,Pop,Yes,Yes,158
+226,8/28/2022 22:10:24,17,Spotify,2,Yes,No,No,Pop,Yes,Yes,160
+227,8/28/2022 22:11:31,21,Spotify,1,Yes,No,No,Folk,No,Yes,
+228,8/28/2022 22:13:00,30,Other streaming service,1,No,No,No,Country,No,No,119
+229,8/28/2022 22:14:01,40,Apple Music,2,Yes,No,No,Metal,Yes,Yes,120
+230,8/28/2022 22:14:30,64,I do not use a streaming service.,4,Yes,No,No,Rock,No,No,200
+231,8/28/2022 22:21:12,14,Spotify,2,Yes,Yes,No,Rock,Yes,Yes,136
+232,8/28/2022 22:30:17,26,YouTube Music,6,Yes,No,No,Rock,Yes,No,104
+233,8/28/2022 22:32:47,35,Spotify,4,Yes,Yes,Yes,Country,Yes,Yes,90
+234,8/28/2022 22:38:36,33,Other streaming service,1,No,No,No,Rock,No,No,120
+235,8/28/2022 22:39:24,30,Spotify,6,Yes,No,No,Folk,Yes,Yes,89
+236,8/28/2022 22:39:58,31,Spotify,2,No,Yes,No,Metal,Yes,,95
+237,8/28/2022 22:49:17,27,Spotify,5,Yes,No,Yes,Folk,Yes,Yes,140
+238,8/28/2022 22:51:01,53,I do not use a streaming service.,1.5,No,No,No,Pop,Yes,Yes,92
+239,8/28/2022 22:51:30,23,Spotify,5,Yes,Yes,Yes,Metal,Yes,Yes,120
+240,8/28/2022 22:53:43,25,Spotify,2,Yes,No,Yes,EDM,Yes,No,128
+241,8/28/2022 22:58:10,16,Apple Music,4,Yes,Yes,No,K pop,Yes,Yes,140
+242,8/28/2022 23:04:08,18,Spotify,2,Yes,Yes,Yes,Rock,Yes,No,
+243,8/28/2022 23:08:27,29,Spotify,5,Yes,Yes,Yes,Classical,Yes,Yes,
+244,8/28/2022 23:19:35,31,YouTube Music,6,Yes,No,No,EDM,Yes,Yes,136
+245,8/28/2022 23:23:20,31,Spotify,1,No,No,No,Rock,No,Yes,132
+246,8/28/2022 23:23:41,38,Spotify,6,Yes,Yes,No,Pop,Yes,Yes,107
+247,8/28/2022 23:23:50,17,Spotify,4,No,Yes,No,Classical,Yes,Yes,135
+248,8/28/2022 23:26:58,25,Apple Music,2,No,No,No,EDM,No,Yes,171
+249,8/28/2022 23:34:19,20,Spotify,2,No,Yes,Yes,Metal,No,Yes,220
+250,8/28/2022 23:34:37,15,Spotify,2,Yes,No,No,EDM,No,No,171
+251,8/28/2022 23:40:54,16,Spotify,4,Yes,No,Yes,Lofi,Yes,No,85
+252,8/28/2022 23:42:24,20,Spotify,2,Yes,Yes,No,EDM,No,Yes,174
+253,8/28/2022 23:47:13,23,Other streaming service,6,Yes,No,No,Rap,Yes,Yes,87
+254,8/28/2022 23:50:25,22,Spotify,3,Yes,No,No,Hip hop,Yes,Yes,77
+255,8/28/2022 23:54:34,15,I do not use a streaming service.,5,Yes,No,No,Rock,Yes,Yes,126
+256,8/28/2022 23:56:06,17,I do not use a streaming service.,0.5,Yes,Yes,No,Video game music,No,Yes,136
+257,8/29/2022 0:03:43,22,YouTube Music,1,Yes,No,No,Video game music,Yes,Yes,80
+258,8/29/2022 0:05:09,21,Spotify,10,Yes,No,No,Metal,Yes,Yes,92
+259,8/29/2022 0:05:36,19,Spotify,2,Yes,No,No,Pop,No,Yes,120
+260,8/29/2022 0:21:31,32,Apple Music,0.5,No,No,No,Classical,Yes,No,
+261,8/29/2022 0:32:36,34,YouTube Music,1,No,No,No,Rock,No,Yes,138
+262,8/29/2022 0:33:06,18,I do not use a streaming service.,2,Yes,Yes,No,Metal,Yes,Yes,150
+263,8/29/2022 0:33:49,21,Spotify,3,Yes,No,No,Country,Yes,No,108
+264,8/29/2022 0:39:19,20,Spotify,3,No,No,No,Country,Yes,Yes,119
+265,8/29/2022 0:39:59,19,Spotify,2,Yes,No,No,Country,Yes,No,125
+266,8/29/2022 0:47:12,25,I do not use a streaming service.,1,No,No,No,Pop,No,Yes,
+267,8/29/2022 0:47:59,31,Spotify,8,Yes,Yes,No,Classical,Yes,Yes,
+268,8/29/2022 0:50:03,21,Spotify,1,Yes,Yes,No,Pop,Yes,Yes,85
+269,8/29/2022 0:50:27,31,YouTube Music,1,No,No,Yes,Folk,Yes,Yes,113
+270,8/29/2022 0:54:55,20,YouTube Music,1,No,No,No,Pop,Yes,No,86
+271,8/29/2022 0:59:01,19,Spotify,5,Yes,Yes,No,Rock,Yes,No,141
+272,8/29/2022 1:06:46,19,Other streaming service,5,Yes,No,No,EDM,Yes,Yes,97
+273,8/29/2022 1:17:44,23,Spotify,4,Yes,No,No,Metal,Yes,Yes,
+274,8/29/2022 1:22:44,24,I do not use a streaming service.,8,Yes,No,Yes,Video game music,Yes,No,120
+275,8/29/2022 1:26:19,20,Other streaming service,0.7,No,No,No,Rock,No,No,144
+276,8/29/2022 1:34:06,15,Spotify,3,No,No,No,Video game music,No,No,84
+277,8/29/2022 1:34:27,17,Spotify,7,Yes,No,No,Hip hop,No,Yes,84
+278,8/29/2022 1:54:06,20,I do not use a streaming service.,1.5,No,Yes,Yes,Video game music,No,Yes,60
+279,8/29/2022 1:59:22,14,Spotify,4,Yes,Yes,Yes,Video game music,Yes,Yes,81
+280,8/29/2022 2:03:07,24,Spotify,4,Yes,No,No,Metal,Yes,Yes,150
+281,8/29/2022 2:06:14,14,Other streaming service,10,Yes,No,Yes,Video game music,No,No,95
+282,8/29/2022 2:10:36,23,Spotify,2,Yes,Yes,Yes,Rock,Yes,No,138
+283,8/29/2022 2:22:37,28,Apple Music,2,Yes,No,No,Rock,No,No,
+284,8/29/2022 2:25:53,22,Spotify,6,Yes,No,No,Jazz,Yes,Yes,140
+285,8/29/2022 2:28:45,25,Spotify,0.5,Yes,Yes,No,Rock,Yes,Yes,139
+286,8/29/2022 2:29:08,27,Spotify,2,Yes,Yes,Yes,Pop,Yes,Yes,100
+287,8/29/2022 2:30:08,18,Spotify,5,Yes,No,No,Rock,Yes,Yes,
+288,8/29/2022 2:30:45,17,Apple Music,3,Yes,Yes,Yes,Pop,Yes,No,120
+289,8/29/2022 2:40:16,23,Other streaming service,4.5,Yes,No,No,Rock,No,Yes,
+290,8/29/2022 2:43:40,40,Other streaming service,3,Yes,No,No,Rock,Yes,Yes,178
+291,8/29/2022 2:46:27,27,Spotify,20,Yes,No,No,Rock,Yes,Yes,
+292,8/29/2022 2:46:38,18,Spotify,1,No,No,No,Pop,Yes,No,100
+293,8/29/2022 2:49:37,16,Spotify,2.5,No,Yes,Yes,Metal,Yes,No,110
+294,8/29/2022 2:54:06,18,Spotify,1,No,No,No,Rock,Yes,Yes,108
+295,8/29/2022 3:01:38,23,Spotify,2,No,Yes,No,Jazz,No,Yes,
+296,8/29/2022 3:09:21,15,I do not use a streaming service.,5,Yes,Yes,No,Metal,Yes,No,161
+297,8/29/2022 3:13:27,20,Apple Music,3,Yes,Yes,No,Metal,Yes,No,200
+298,8/29/2022 3:14:38,16,Spotify,3,Yes,Yes,No,Rock,Yes,No,
+299,8/29/2022 3:17:19,16,Spotify,0.5,No,No,No,Rock,No,Yes,156
+300,8/29/2022 3:21:18,20,Apple Music,8,Yes,Yes,Yes,Country,Yes,No,120
+301,8/29/2022 3:29:44,33,Spotify,2,Yes,No,No,Metal,Yes,Yes,
+302,8/29/2022 3:32:43,22,Spotify,3,Yes,Yes,Yes,Rock,Yes,Yes,90
+303,8/29/2022 3:44:33,21,Spotify,3,Yes,No,No,Hip hop,Yes,Yes,85
+304,8/29/2022 3:46:02,21,Apple Music,5,Yes,Yes,No,Metal,Yes,Yes,171
+305,8/29/2022 3:47:32,29,Apple Music,1.5,Yes,No,Yes,Rock,Yes,Yes,108
+306,8/29/2022 3:49:29,56,I do not use a streaming service.,1,Yes,No,No,Pop,No,No,105
+307,8/29/2022 4:02:01,17,Spotify,2,Yes,Yes,No,Pop,Yes,No,76
+308,8/29/2022 4:02:12,22,Spotify,1,Yes,No,No,Pop,No,No,108
+309,8/29/2022 4:10:25,26,Spotify,4,Yes,No,No,Pop,Yes,Yes,140
+310,8/29/2022 4:17:46,30,Spotify,1,Yes,No,No,EDM,Yes,Yes,200
+311,8/29/2022 4:36:16,49,Spotify,2,Yes,No,No,Folk,Yes,No,147
+312,8/29/2022 4:37:05,22,Spotify,2,Yes,Yes,Yes,EDM,Yes,Yes,120
+313,8/29/2022 4:41:30,32,Spotify,2,No,No,No,Rock,Yes,No,158
+314,8/29/2022 4:42:51,32,I do not use a streaming service.,1,No,No,No,Rock,No,No,110
+315,8/29/2022 4:51:37,22,YouTube Music,6,Yes,No,No,Country,Yes,No,103
+316,8/29/2022 4:53:44,17,Spotify,2,Yes,No,No,Rock,Yes,Yes,93
+317,8/29/2022 4:57:35,21,Spotify,4,Yes,Yes,No,Rock,Yes,No,62
+318,8/29/2022 5:06:50,17,Spotify,1.5,Yes,No,No,Rock,Yes,Yes,180
+319,8/29/2022 5:08:52,25,Spotify,3,Yes,No,No,Metal,No,No,150
+320,8/29/2022 5:14:53,15,Spotify,4,Yes,No,Yes,Rock,Yes,No,105
+321,8/29/2022 5:20:21,13,Spotify,10,Yes,No,No,Rap,Yes,No,140
+322,8/29/2022 5:22:38,38,Spotify,3,Yes,No,No,Rock,No,Yes,
+323,8/29/2022 5:35:40,23,Apple Music,3,No,No,No,Rock,Yes,No,161
+324,8/29/2022 5:37:56,17,Spotify,3,Yes,No,No,Pop,Yes,Yes,120
+325,8/29/2022 5:41:25,59,YouTube Music,2,Yes,No,No,Pop,Yes,No,103
+326,8/29/2022 5:45:03,22,Spotify,2,Yes,Yes,Yes,Pop,Yes,No,72
+327,8/29/2022 5:50:21,17,Apple Music,3,Yes,No,No,Pop,Yes,Yes,113
+328,8/29/2022 6:00:25,27,Spotify,2,No,No,No,Pop,No,No,120
+329,8/29/2022 6:13:47,23,Spotify,5,Yes,Yes,No,Video game music,No,No,95
+330,8/29/2022 6:31:56,15,Spotify,6,Yes,No,No,Rock,No,No,97
+331,8/29/2022 6:44:14,22,Spotify,3,Yes,Yes,Yes,EDM,Yes,No,140
+332,8/29/2022 6:58:24,23,Spotify,5,Yes,No,No,Lofi,Yes,Yes,120
+333,8/29/2022 7:11:40,19,Spotify,5,Yes,No,No,Country,Yes,Yes,118
+334,8/29/2022 7:17:09,32,Spotify,6,Yes,No,No,Rock,No,No,91
+335,8/29/2022 7:48:34,40,Spotify,6,Yes,No,No,Rock,Yes,Yes,128
+336,8/29/2022 7:52:49,21,Spotify,3,Yes,No,No,Country,Yes,No,86
+337,8/29/2022 7:53:58,21,Spotify,10,Yes,No,No,Rock,Yes,Yes,107
+338,8/29/2022 8:23:46,23,Spotify,2,Yes,No,No,Video game music,Yes,Yes,180
+339,8/29/2022 8:28:46,21,YouTube Music,2,Yes,No,No,EDM,No,Yes,
+340,8/29/2022 8:37:30,35,Spotify,3,No,Yes,No,Folk,Yes,No,0
+341,8/29/2022 8:38:53,18,Spotify,1.5,No,No,No,Hip hop,No,No,150
+342,8/29/2022 8:39:19,21,I do not use a streaming service.,10,Yes,No,No,Pop,Yes,No,112
+343,8/29/2022 8:47:09,22,I do not use a streaming service.,2,Yes,No,No,Video game music,No,Yes,
+344,8/29/2022 9:01:49,23,Spotify,3,Yes,Yes,Yes,Rock,Yes,Yes,66
+345,8/29/2022 9:07:42,13,Spotify,2.5,Yes,No,No,Folk,No,No,118
+346,8/29/2022 9:13:14,19,Spotify,3,Yes,No,No,K pop,Yes,Yes,110
+347,8/29/2022 9:26:07,33,YouTube Music,0.5,Yes,Yes,No,Rock,No,No,80
+348,8/29/2022 9:42:23,18,Spotify,16,Yes,No,Yes,Jazz,Yes,Yes,90
+349,8/29/2022 9:43:35,17,YouTube Music,6,Yes,Yes,No,Classical,Yes,Yes,120
+350,8/29/2022 9:47:21,16,Spotify,3,Yes,No,No,EDM,Yes,Yes,100
+351,8/29/2022 9:47:26,18,YouTube Music,0.5,No,No,No,Rock,Yes,No,66
+352,8/29/2022 9:52:20,19,Spotify,5,Yes,No,No,K pop,Yes,Yes,158
+353,8/29/2022 9:56:31,15,YouTube Music,2,No,Yes,No,Rap,Yes,Yes,105
+354,8/29/2022 10:23:22,17,Spotify,2,Yes,No,No,Pop,Yes,Yes,208
+355,8/29/2022 10:23:46,25,Spotify,2,Yes,No,No,Lofi,Yes,Yes,91
+356,8/29/2022 10:25:54,24,Other streaming service,1.5,Yes,No,No,Video game music,No,Yes,171
+357,8/29/2022 10:41:11,23,Spotify,1,Yes,Yes,No,Jazz,Yes,No,150
+358,8/29/2022 10:44:43,16,Spotify,10,Yes,Yes,No,EDM,Yes,Yes,180
+359,8/29/2022 10:45:36,25,YouTube Music,2,Yes,No,No,Metal,Yes,Yes,
+360,8/29/2022 11:02:29,16,Spotify,15,Yes,Yes,Yes,EDM,Yes,No,85
+361,8/29/2022 11:04:24,20,I do not use a streaming service.,0.5,No,No,No,Metal,Yes,Yes,150
+362,8/29/2022 11:16:34,17,Spotify,3,Yes,No,No,Metal,Yes,No,104
+363,8/29/2022 11:41:34,29,I do not use a streaming service.,2,Yes,No,No,Metal,Yes,No,
+364,8/29/2022 11:56:17,20,Spotify,4,Yes,No,No,Hip hop,Yes,No,85
+365,8/29/2022 12:25:16,16,Spotify,2,Yes,No,No,Folk,Yes,No,
+366,8/29/2022 12:30:01,21,Spotify,1,Yes,No,No,Rock,Yes,No,147
+367,8/29/2022 12:32:30,16,Spotify,24,Yes,No,No,Rock,Yes,Yes,120
+368,8/29/2022 13:09:33,43,Spotify,1,Yes,No,No,Pop,Yes,No,134
+369,8/29/2022 14:13:58,32,Pandora,2,Yes,Yes,No,Classical,Yes,No,
+370,8/29/2022 14:25:08,10,YouTube Music,2,Yes,Yes,No,Pop,Yes,Yes,112
+371,8/29/2022 14:49:56,27,Spotify,3,Yes,No,No,Metal,Yes,Yes,200
+372,8/29/2022 14:53:54,24,Spotify,3,Yes,Yes,No,Classical,No,Yes,75
+373,8/29/2022 15:05:22,18,Spotify,2,Yes,No,No,Hip hop,Yes,Yes,20
+374,8/29/2022 15:18:16,17,Apple Music,7,Yes,No,No,Rock,No,No,140
+375,8/29/2022 15:20:35,19,Spotify,6,Yes,No,No,Metal,Yes,No,111
+376,8/29/2022 16:05:19,16,YouTube Music,3,Yes,No,No,Rock,Yes,Yes,150
+377,8/29/2022 16:07:39,64,Other streaming service,5,Yes,No,Yes,Rock,Yes,No,
+378,8/29/2022 16:28:12,33,Apple Music,4,Yes,Yes,Yes,Lofi,Yes,Yes,114
+379,8/29/2022 16:39:08,32,I do not use a streaming service.,3,Yes,Yes,No,Rock,No,Yes,93
+380,8/29/2022 17:04:16,15,Pandora,2,Yes,Yes,No,Pop,Yes,No,145
+381,8/29/2022 17:22:01,27,YouTube Music,3,Yes,No,No,Metal,Yes,Yes,100
+382,8/29/2022 17:32:02,20,I do not use a streaming service.,2,Yes,No,No,Rock,Yes,No,114
+383,8/29/2022 17:36:01,23,I do not use a streaming service.,2,Yes,No,No,Pop,Yes,Yes,109
+384,8/29/2022 17:52:06,19,Apple Music,3,No,Yes,No,Classical,Yes,No,
+385,8/29/2022 17:58:47,12,YouTube Music,2,Yes,Yes,Yes,Classical,No,No,
+386,8/29/2022 18:00:27,16,Other streaming service,3,Yes,Yes,Yes,Classical,No,No,72
+387,8/29/2022 18:09:17,17,Other streaming service,0,No,No,No,Video game music,No,Yes,89
+388,8/29/2022 18:13:51,14,Spotify,1,Yes,Yes,No,Pop,Yes,No,140
+389,8/29/2022 18:22:58,32,Spotify,2,Yes,No,No,Metal,Yes,No,84
+390,8/29/2022 18:47:22,20,Spotify,2,Yes,Yes,No,Pop,No,Yes,132
+391,8/29/2022 18:56:27,54,I do not use a streaming service.,6,Yes,No,No,Classical,No,No,
+392,8/29/2022 18:57:09,18,Spotify,5,Yes,No,No,K pop,Yes,Yes,124
+393,8/29/2022 19:07:50,14,Spotify,2,Yes,Yes,No,Classical,Yes,No,181
+394,8/29/2022 19:08:34,13,Other streaming service,4,Yes,Yes,Yes,Classical,Yes,No,126
+395,8/29/2022 19:44:49,19,Apple Music,8,Yes,No,Yes,Country,Yes,No,109
+396,8/29/2022 20:03:00,14,Spotify,4,Yes,Yes,No,Classical,Yes,No,106
+397,8/29/2022 20:03:04,14,YouTube Music,1.5,No,Yes,No,Classical,Yes,,140
+398,8/29/2022 20:04:14,18,Apple Music,2,Yes,Yes,No,Rap,Yes,Yes,170
+399,8/29/2022 20:12:32,15,Spotify,5,Yes,No,No,Folk,Yes,Yes,87
+400,8/29/2022 20:18:37,24,YouTube Music,6,Yes,Yes,No,Classical,No,No,
+401,8/29/2022 20:22:33,17,Apple Music,2,Yes,No,No,Pop,No,Yes,117
+402,8/29/2022 20:47:47,44,Spotify,2,No,No,No,Rock,Yes,No,105
+403,8/29/2022 21:21:30,23,Spotify,1,No,Yes,No,Rock,Yes,No,
+404,8/29/2022 21:24:24,21,Apple Music,1,No,No,No,Rap,No,No,160
+405,8/29/2022 22:00:46,57,Other streaming service,2,No,No,No,R&B,Yes,No,
+406,8/29/2022 22:04:50,23,Spotify,2,Yes,Yes,No,Rock,Yes,Yes,141
+407,8/29/2022 22:52:14,18,Spotify,1,Yes,Yes,No,Pop,No,Yes,105
+408,8/29/2022 23:20:48,26,Spotify,14,Yes,No,No,Hip hop,Yes,Yes,158
+409,8/29/2022 23:36:14,13,YouTube Music,3,Yes,,Yes,Classical,No,No,80
+410,8/30/2022 0:00:29,15,Spotify,3,Yes,Yes,Yes,Classical,Yes,No,118
+411,8/30/2022 0:14:35,57,YouTube Music,2,Yes,Yes,Yes,Rock,Yes,No,125
+412,8/30/2022 1:01:09,12,Spotify,0.5,Yes,Yes,Yes,Classical,Yes,Yes,109
+413,8/30/2022 5:16:13,26,Spotify,6,Yes,No,No,EDM,No,Yes,156
+414,8/30/2022 6:05:56,17,Spotify,1,Yes,Yes,No,Country,No,No,105
+415,8/30/2022 6:10:58,17,Spotify,2,Yes,Yes,No,Classical,Yes,Yes,
+416,8/30/2022 8:00:32,69,Pandora,4,Yes,Yes,Yes,Classical,Yes,Yes,72
+417,8/30/2022 9:35:28,17,Spotify,3,Yes,Yes,Yes,R&B,Yes,Yes,148
+418,8/30/2022 10:10:44,32,Spotify,12,Yes,Yes,Yes,Jazz,Yes,Yes,200
+419,8/30/2022 11:05:06,22,YouTube Music,3,No,Yes,No,Classical,Yes,No,113
+420,8/30/2022 11:12:36,38,Spotify,1,No,No,No,Metal,Yes,Yes,191
+421,8/30/2022 12:03:11,18,YouTube Music,10,Yes,No,No,EDM,Yes,No,140
+422,8/30/2022 13:07:20,14,Spotify,5,Yes,Yes,No,Classical,Yes,Yes,40
+423,8/30/2022 14:25:28,14,Other streaming service,0.5,Yes,Yes,No,Video game music,Yes,Yes,173
+424,8/30/2022 14:43:14,19,Spotify,5,Yes,Yes,Yes,Metal,Yes,Yes,180
+425,8/30/2022 16:04:47,20,YouTube Music,3,Yes,Yes,Yes,Classical,Yes,No,100
+426,8/30/2022 16:43:28,18,Spotify,2,No,No,No,Rock,Yes,No,123
+427,8/30/2022 16:47:39,30,Spotify,13,,No,No,K pop,Yes,Yes,145
+428,8/30/2022 17:33:13,31,I do not use a streaming service.,4,Yes,Yes,No,Classical,Yes,Yes,55
+429,8/30/2022 17:43:36,72,Spotify,6,Yes,Yes,Yes,Rock,No,No,77
+430,8/30/2022 18:15:39,73,Pandora,3,Yes,No,No,R&B,Yes,Yes,4
+431,8/31/2022 1:39:16,16,Spotify,4,Yes,No,No,Pop,Yes,Yes,150
+432,8/31/2022 5:45:08,19,YouTube Music,3,No,Yes,No,Rap,Yes,Yes,73
+433,8/31/2022 6:36:13,16,Spotify,2,Yes,Yes,No,Classical,No,No,155
+434,8/31/2022 8:04:22,12,Spotify,2,Yes,Yes,Yes,Classical,Yes,Yes,
+435,8/31/2022 8:35:00,39,Spotify,1,Yes,No,No,Hip hop,Yes,Yes,89
+436,8/31/2022 9:42:46,15,Spotify,6,Yes,Yes,No,K pop,Yes,Yes,110
+437,8/31/2022 12:53:28,14,Spotify,9,Yes,No,No,R&B,Yes,Yes,140
+438,8/31/2022 13:20:39,21,Spotify,1,No,No,No,Country,No,No,135
+439,8/31/2022 14:28:33,38,Apple Music,1,Yes,No,No,Video game music,No,No,125
+440,8/31/2022 15:48:18,23,Spotify,0.5,No,No,Yes,Hip hop,Yes,Yes,110
+441,8/31/2022 16:47:03,16,Other streaming service,1,No,No,No,EDM,Yes,No,140
+442,8/31/2022 18:56:31,21,Apple Music,1.5,Yes,Yes,No,Folk,No,No,105
+443,8/31/2022 18:56:39,13,Spotify,6,Yes,No,No,Rap,Yes,No,112
+444,8/31/2022 20:40:05,16,Spotify,4,Yes,No,No,Rock,Yes,No,96
+445,8/31/2022 21:04:07,18,Spotify,6,Yes,No,Yes,Rock,Yes,No,
+446,8/31/2022 23:09:44,21,Spotify,4,Yes,No,No,Metal,Yes,Yes,155
+447,09-01-22 1:16,17,Spotify,1.5,Yes,No,No,Classical,Yes,Yes,174
+448,09-01-22 2:32,24,Apple Music,2,Yes,No,No,Rock,Yes,Yes,93
+449,09-01-22 3:38,14,Apple Music,2,Yes,No,No,Pop,Yes,No,78
+450,09-01-22 5:01,25,Spotify,4,Yes,No,No,Rock,Yes,Yes,
+451,09-01-22 5:20,22,Spotify,3,Yes,No,No,Lofi,Yes,Yes,174
+452,09-01-22 9:25,20,I do not use a streaming service.,4,Yes,No,No,Rock,Yes,Yes,120
+453,09-01-22 12:04,23,Spotify,2,Yes,No,No,Pop,No,No,75
+454,09-01-22 13:13,61,Pandora,2,Yes,No,No,Rock,Yes,No,94
+455,09-01-22 13:14,24,Spotify,6,Yes,No,No,Video game music,No,Yes,180
+456,09-01-22 14:56,34,Spotify,0,No,Yes,No,Rock,No,Yes,115
+457,09-01-22 14:57,49,Spotify,1,No,No,No,Pop,Yes,No,128
+458,09-01-22 14:59,33,I do not use a streaming service.,4,Yes,Yes,No,Rock,Yes,Yes,112
+459,09-01-22 15:01,22,I do not use a streaming service.,2,No,Yes,Yes,Metal,No,No,140
+460,09-01-22 15:05,38,Spotify,3,Yes,No,No,Metal,Yes,Yes,143
+461,09-01-22 15:21,23,YouTube Music,4,No,No,No,Hip hop,Yes,No,72
+462,09-01-22 15:24,34,I do not use a streaming service.,2,No,No,No,Video game music,No,Yes,100
+463,09-01-22 15:24,40,Other streaming service,3,Yes,No,No,Metal,Yes,Yes,120
+464,09-01-22 15:26,27,Spotify,1,No,No,No,Hip hop,Yes,No,
+465,09-01-22 15:36,54,YouTube Music,10,Yes,No,No,Rock,Yes,No,
+466,09-01-22 15:50,16,Spotify,10,No,No,No,Rock,Yes,No,105
+467,09-01-22 16:00,23,I do not use a streaming service.,10,Yes,No,No,Video game music,No,Yes,119
+468,09-01-22 16:06,35,Spotify,4,No,No,No,Country,Yes,No,
+469,09-01-22 16:11,22,YouTube Music,4,Yes,No,No,Folk,Yes,Yes,137
+470,09-01-22 16:30,41,Spotify,3,No,No,No,Metal,Yes,Yes,178
+471,09-01-22 16:35,63,Spotify,2,Yes,No,No,Rock,Yes,No,133
+472,09-01-22 16:38,28,Spotify,1,No,Yes,No,Rock,Yes,No,72
+473,09-01-22 16:38,22,Spotify,6,Yes,Yes,No,Country,Yes,No,
+474,09-01-22 16:43,58,YouTube Music,1,Yes,No,No,Rock,Yes,No,133
+475,09-01-22 16:58,58,YouTube Music,1,Yes,Yes,Yes,Classical,Yes,No,80
+476,09-01-22 17:00,67,Other streaming service,4,Yes,No,No,Rock,No,No,146
+477,09-01-22 17:17,70,I do not use a streaming service.,2,Yes,No,No,Country,No,No,88
+478,09-01-22 17:27,60,YouTube Music,2,Yes,No,No,Rock,No,Yes,132
+479,09-01-22 17:33,15,Spotify,2,Yes,Yes,Yes,Pop,Yes,No,102
+480,09-01-22 17:48,18,YouTube Music,6,Yes,No,No,EDM,Yes,Yes,91
+481,09-01-22 17:51,58,Other streaming service,3,Yes,No,No,Hip hop,Yes,Yes,127
+482,09-01-22 18:02,28,Other streaming service,1,Yes,No,No,Lofi,Yes,Yes,82
+483,09-01-22 18:10,22,Spotify,4,Yes,Yes,No,Lofi,Yes,No,141
+484,09-01-22 18:11,49,YouTube Music,0.5,No,No,No,Classical,No,No,114
+485,09-01-22 18:38,20,YouTube Music,8,Yes,No,No,Rock,Yes,Yes,148
+486,09-01-22 19:08,55,YouTube Music,15,Yes,No,No,Rock,No,No,156
+487,09-01-22 19:09,48,Spotify,1.5,Yes,Yes,No,Metal,No,No,185
+488,09-01-22 19:36,14,Spotify,2,Yes,Yes,No,K pop,Yes,Yes,114
+489,09-01-22 19:39,18,Spotify,3,Yes,Yes,No,Pop,Yes,Yes,120
+490,09-01-22 19:39,25,Spotify,1,Yes,No,No,Pop,Yes,Yes,80
+491,09-01-22 19:44,71,I do not use a streaming service.,0.25,Yes,No,No,Gospel,No,Yes,
+492,09-01-22 20:02,60,YouTube Music,1,No,Yes,Yes,Gospel,No,No,
+493,09-01-22 20:36,18,I do not use a streaming service.,1,Yes,No,Yes,Video game music,No,No,116
+494,09-01-22 21:05,19,Spotify,5,Yes,No,No,Hip hop,No,Yes,99
+495,09-01-22 21:07,74,I do not use a streaming service.,1,No,No,No,Pop,No,No,129
+496,09-01-22 21:14,36,Pandora,1,Yes,No,No,Hip hop,No,No,131
+497,09-01-22 21:24,14,Spotify,7,Yes,No,No,Lofi,Yes,Yes,95
+498,09-01-22 21:44,20,Spotify,3,No,Yes,Yes,Hip hop,Yes,Yes,80
+499,09-01-22 22:38,15,Spotify,3,Yes,No,No,K pop,Yes,Yes,204
+500,09-01-22 23:11,19,I do not use a streaming service.,7,Yes,No,No,Rock,No,No,128
+501,09-02-22 0:08,29,Spotify,8,Yes,No,No,EDM,No,Yes,140
+502,09-02-22 0:20,24,Spotify,2,Yes,No,No,Metal,Yes,No,159
+503,09-02-22 0:32,18,Apple Music,2,Yes,No,No,Pop,Yes,Yes,104
+504,09-02-22 1:03,21,Spotify,2,Yes,No,No,Rock,Yes,Yes,97
+505,09-02-22 1:59,19,Spotify,2,Yes,No,No,K pop,Yes,Yes,80
+506,09-02-22 2:19,25,Spotify,4,No,No,No,Video game music,Yes,Yes,134
+507,09-02-22 3:06,28,Spotify,8,Yes,No,No,Rock,Yes,Yes,
+508,09-02-22 3:27,27,Other streaming service,4,Yes,No,No,Rap,Yes,No,135
+509,09-02-22 3:32,60,Spotify,1,No,No,No,Rock,Yes,No,129
+510,09-02-22 3:36,25,YouTube Music,5,No,No,No,Metal,No,Yes,
+511,09-02-22 4:06,60,Other streaming service,2,Yes,No,No,Rock,No,No,
+512,09-02-22 4:56,43,Other streaming service,1,No,No,No,Country,No,No,110
+513,09-02-22 4:56,51,I do not use a streaming service.,5,Yes,No,No,Rock,No,No,180
+514,09-02-22 5:21,63,YouTube Music,8,Yes,No,No,Rock,Yes,No,70
+515,09-02-22 5:40,64,YouTube Music,2,Yes,No,No,Classical,No,No,
+516,09-02-22 5:49,22,Spotify,2,Yes,No,No,Pop,No,No,
+517,09-02-22 6:20,24,YouTube Music,1,Yes,No,No,Folk,No,Yes,103
+518,09-02-22 6:41,19,Spotify,8,Yes,No,No,Pop,Yes,Yes,99
+519,09-02-22 7:13,56,Apple Music,8,Yes,No,No,Pop,Yes,No,117
+520,09-02-22 7:13,20,Spotify,1,No,No,No,EDM,Yes,No,102
+521,09-02-22 7:29,19,I do not use a streaming service.,1,Yes,Yes,No,Video game music,No,No,127
+522,09-02-22 7:53,20,Spotify,8,Yes,No,No,Jazz,Yes,Yes,93
+523,09-02-22 8:05,60,Spotify,2,Yes,No,No,Rock,No,No,
+524,09-02-22 8:06,65,Apple Music,6,Yes,No,No,R&B,No,Yes,146
+525,09-02-22 9:15,28,Spotify,3,No,Yes,Yes,Metal,Yes,Yes,0
+526,09-02-22 9:25,18,I do not use a streaming service.,4,Yes,Yes,No,EDM,No,Yes,150
+527,09-02-22 9:54,42,Spotify,2,Yes,No,No,Rock,No,Yes,85
+528,09-02-22 14:09,80,I do not use a streaming service.,3,Yes,Yes,No,Classical,No,No,122
+529,09-02-22 14:31,22,I do not use a streaming service.,4,No,No,Yes,Pop,Yes,No,
+530,09-02-22 15:24,56,Other streaming service,2,No,No,No,Jazz,Yes,Yes,120
+531,09-02-22 16:14,20,YouTube Music,1,Yes,No,No,Pop,No,Yes,120
+532,09-02-22 16:36,15,Spotify,1,Yes,No,No,Video game music,Yes,Yes,150
+533,09-02-22 19:20,67,I do not use a streaming service.,1,No,No,No,Rock,No,No,
+534,09-02-22 19:39,57,Spotify,2,Yes,Yes,No,Gospel,No,No,174
+535,09-02-22 21:14,22,Apple Music,7,Yes,No,No,Pop,Yes,Yes,112
+536,09-02-22 21:19,17,Spotify,5,Yes,No,No,Pop,Yes,Yes,180
+537,09-02-22 22:18,19,Spotify,3,Yes,No,No,Rock,No,No,121
+538,09-03-22 3:54,50,I do not use a streaming service.,1,No,No,No,Rock,No,No,98
+539,09-03-22 5:27,24,Spotify,6,Yes,Yes,Yes,Rock,Yes,Yes,118
+540,09-03-22 7:09,67,Apple Music,2,No,No,No,Rock,Yes,No,
+541,09-03-22 8:53,18,Other streaming service,3,Yes,Yes,Yes,Metal,Yes,No,135
+542,09-03-22 10:20,20,Spotify,1.5,Yes,No,No,Country,No,No,
+543,09-03-22 10:41,15,Spotify,4,Yes,Yes,No,Pop,Yes,No,105
+544,09-03-22 12:26,17,Spotify,2,Yes,Yes,No,Pop,Yes,Yes,122
+545,09-03-22 13:52,32,YouTube Music,2,Yes,No,No,Folk,Yes,No,
+546,09-03-22 14:08,18,Spotify,2,No,No,No,Rap,Yes,Yes,136
+547,09-03-22 14:35,18,Spotify,1,Yes,Yes,Yes,Rock,Yes,No,165
+548,09-03-22 15:52,18,Spotify,3,Yes,No,No,K pop,Yes,Yes,130
+549,09-03-22 15:52,19,Spotify,3,Yes,No,No,Pop,Yes,No,
+550,09-03-22 16:00,18,Spotify,2,No,Yes,No,Rock,Yes,No,115
+551,09-03-22 16:24,17,Other streaming service,6,Yes,No,Yes,Rap,Yes,No,140
+552,09-03-22 17:14,34,Spotify,3,Yes,No,No,Classical,No,Yes,95
+553,09-03-22 18:01,18,YouTube Music,3,Yes,No,No,Pop,No,No,150
+554,09-03-22 18:23,18,Spotify,2,Yes,No,No,R&B,Yes,No,97
+555,09-03-22 18:37,22,I do not use a streaming service.,2,Yes,No,No,Video game music,No,No,
+556,09-03-22 20:49,18,Spotify,2,Yes,No,Yes,Pop,Yes,No,
+557,09-03-22 20:58,19,Spotify,3,Yes,No,No,Rock,Yes,Yes,122
+558,09-03-22 21:08,25,I do not use a streaming service.,4,Yes,No,No,Pop,Yes,Yes,150
+559,09-03-22 21:52,17,Spotify,2,Yes,Yes,Yes,R&B,Yes,No,
+560,09-04-22 2:32,25,Spotify,5,Yes,Yes,No,Rock,Yes,No,125
+561,09-04-22 5:01,18,Spotify,2,Yes,No,No,R&B,No,No,96
+562,09-04-22 5:22,21,Spotify,1,,,,K pop,Yes,,
+563,09-04-22 9:22,24,Spotify,7,Yes,No,No,Folk,Yes,Yes,137
+564,09-04-22 10:07,16,Spotify,3,Yes,Yes,No,K pop,No,Yes,174
+565,09-04-22 10:48,18,Spotify,3,No,Yes,Yes,Metal,Yes,No,210
+566,09-04-22 11:15,18,Spotify,4,Yes,No,No,R&B,Yes,Yes,129
+567,09-04-22 11:25,16,Spotify,3,Yes,No,No,Pop,Yes,No,112
+568,09-04-22 13:07,68,Pandora,1,Yes,No,No,Gospel,No,No,8
+569,09-04-22 15:41,16,Spotify,7,Yes,No,No,Video game music,Yes,No,999999999
+570,09-04-22 16:26,21,Spotify,1,No,No,No,R&B,Yes,Yes,81
+571,09-04-22 17:54,53,Pandora,4,Yes,No,No,R&B,Yes,Yes,153
+572,09-04-22 20:38,29,Spotify,4,Yes,No,No,Classical,Yes,No,120
+573,09-04-22 21:29,18,Spotify,3,Yes,,No,Video game music,Yes,Yes,89
+574,09-04-22 21:44,29,Spotify,2,Yes,No,No,Pop,No,No,
+575,09-04-22 22:32,18,Spotify,4,Yes,Yes,No,R&B,Yes,Yes,169
+576,09-05-22 2:08,22,Spotify,5,Yes,No,No,EDM,Yes,Yes,138
+577,09-05-22 6:29,19,Other streaming service,6,Yes,No,No,Pop,No,No,124
+578,09-05-22 8:21,13,YouTube Music,1,Yes,No,No,Video game music,Yes,No,
+579,09-05-22 12:10,26,I do not use a streaming service.,1,No,No,No,Pop,No,No,192
+580,09-05-22 21:56,14,Spotify,3,Yes,No,No,Rock,Yes,No,76
+581,09-06-22 9:40,27,Spotify,1,Yes,No,No,Pop,Yes,Yes,119
+582,09-06-22 10:12,26,Spotify,8,No,No,No,Rock,No,Yes,172
+583,09-06-22 11:15,59,Other streaming service,1,No,Yes,No,Rock,No,No,79
+584,09-06-22 11:19,30,Spotify,8,Yes,Yes,Yes,Rock,Yes,No,112
+585,09-06-22 12:36,27,Spotify,1,Yes,No,No,Pop,Yes,Yes,130
+586,09-06-22 13:26,18,Apple Music,1,No,Yes,No,Rap,Yes,Yes,116
+587,09-06-22 14:43,23,I do not use a streaming service.,10,Yes,Yes,Yes,Metal,No,Yes,165
+588,09-06-22 15:53,18,Spotify,10,Yes,Yes,Yes,Rock,Yes,No,110
+589,09-06-22 19:27,40,Spotify,5,Yes,No,No,Rock,Yes,Yes,174
+590,09-07-22 9:16,24,Spotify,10,Yes,No,No,Rock,Yes,Yes,180
+591,09-07-22 12:32,23,Spotify,2,Yes,Yes,No,Classical,Yes,Yes,171
+592,09-07-22 14:17,56,Other streaming service,6,Yes,No,No,R&B,No,No,
+593,09-07-22 19:43,29,Other streaming service,2,Yes,No,No,R&B,Yes,No,70
+594,09-07-22 21:19,16,Other streaming service,3,Yes,No,No,Pop,No,Yes,120
+595,09-08-22 15:06,18,Spotify,8,Yes,Yes,Yes,Gospel,Yes,Yes,56
+596,09-08-22 16:56,21,Spotify,8,Yes,No,No,Lofi,Yes,Yes,162
+597,09-08-22 18:12,32,Spotify,8,Yes,No,No,Rock,Yes,No,101
+598,09-08-22 18:14,22,YouTube Music,8,Yes,Yes,No,Metal,Yes,No,110
+599,09-08-22 19:16,17,Spotify,12,Yes,Yes,No,Latin,Yes,No,172
+600,09-08-22 21:30,18,Spotify,6,Yes,No,No,EDM,Yes,Yes,90
+601,09-08-22 23:40,18,Spotify,4,Yes,Yes,No,R&B,No,Yes,135
+602,09-09-22 7:19,24,Spotify,8,Yes,No,No,Jazz,Yes,No,81
+603,09-09-22 7:48,21,Spotify,2,No,No,No,Pop,No,No,170
+604,09-09-22 11:15,46,I do not use a streaming service.,1,No,No,No,Rock,No,No,120
+605,09-09-22 11:25,18,Spotify,2,Yes,Yes,No,Hip hop,Yes,No,90
+606,09-09-22 18:44,16,Spotify,3,Yes,Yes,No,K pop,Yes,Yes,115
+607,09-09-22 22:31,21,Spotify,1,Yes,No,No,Video game music,Yes,Yes,
+608,09-09-22 23:34,19,I do not use a streaming service.,0,No,No,No,Classical,Yes,Yes,
+609,09-10-22 2:59,20,Spotify,2,Yes,Yes,Yes,Rap,Yes,Yes,
+610,09-10-22 6:07,21,Other streaming service,0.1,Yes,Yes,No,Folk,No,Yes,
+611,09-10-22 9:06,56,I do not use a streaming service.,2,Yes,No,No,Rock,No,Yes,220
+612,09-10-22 22:08,21,Spotify,12,Yes,No,No,Rock,Yes,Yes,160
+613,09-12-22 9:39,20,Spotify,1,Yes,No,No,Pop,Yes,No,121
+614,09-12-22 11:45,21,Apple Music,1,Yes,No,No,Rock,No,No,105
+615,09-12-22 12:09,25,Spotify,3,Yes,No,No,Rock,No,No,110
+616,09-12-22 12:14,33,Spotify,2,Yes,No,No,Metal,Yes,Yes,134
+617,09-12-22 12:15,20,Spotify,2,Yes,No,No,Rock,Yes,Yes,148
+618,09-12-22 12:46,17,Spotify,3,Yes,Yes,No,Rock,Yes,No,120
+619,09-12-22 13:31,24,YouTube Music,1,No,No,No,Jazz,Yes,Yes,122
+620,09-12-22 13:33,26,Spotify,3,Yes,Yes,Yes,Jazz,Yes,Yes,90
+621,09-12-22 13:46,17,YouTube Music,3,Yes,No,No,Rock,No,No,122
+622,09-12-22 13:55,16,Spotify,5,Yes,Yes,Yes,Metal,Yes,Yes,129
+623,09-12-22 14:20,27,Spotify,8,Yes,No,No,Metal,Yes,No,132
+624,09-12-22 14:27,28,Spotify,4,Yes,No,No,Hip hop,Yes,Yes,178
+625,09-12-22 14:29,48,I do not use a streaming service.,5,Yes,No,Yes,Rock,Yes,Yes,
+626,09-12-22 14:42,19,Spotify,3,Yes,No,No,Rap,No,Yes,115
+627,09-12-22 14:44,21,YouTube Music,4,Yes,No,No,Rock,Yes,Yes,137
+628,09-12-22 15:07,21,I do not use a streaming service.,1,Yes,Yes,No,Classical,No,No,92
+629,09-12-22 15:12,15,Spotify,4,Yes,No,No,Metal,Yes,Yes,140
+630,09-12-22 16:24,20,Spotify,1,No,No,No,Rock,Yes,Yes,130
+631,09-12-22 18:07,21,YouTube Music,2,Yes,Yes,No,Video game music,No,Yes,
+632,09-12-22 18:09,22,Spotify,6,Yes,No,No,Folk,Yes,No,63
+633,09-12-22 18:10,22,Spotify,2,No,No,No,Rock,No,No,119
+634,09-12-22 18:54,31,Spotify,1,Yes,No,No,Rock,Yes,No,
+635,09-12-22 19:03,20,YouTube Music,4,Yes,Yes,No,Metal,Yes,No,180
+636,09-12-22 19:13,49,I do not use a streaming service.,8,Yes,Yes,Yes,Classical,No,No,68
+637,09-12-22 19:41,42,Spotify,2,Yes,No,No,Metal,Yes,Yes,85
+638,09-12-22 20:07,26,Spotify,2,Yes,No,No,EDM,Yes,Yes,128
+639,09-12-22 22:24,17,Spotify,10,Yes,No,Yes,K pop,Yes,Yes,150
+640,09-12-22 22:26,30,I do not use a streaming service.,0,No,No,No,Metal,No,No,0
+641,09-12-22 23:09,23,Spotify,6,Yes,No,No,Folk,Yes,Yes,92
+642,09-12-22 23:16,30,Apple Music,3,Yes,No,No,EDM,Yes,Yes,121
+643,09-12-22 23:56,31,Spotify,2,Yes,No,No,Metal,No,Yes,155
+644,9/13/2022 0:48:14,42,Other streaming service,0.25,No,Yes,No,Classical,Yes,Yes,150
+645,9/13/2022 1:55:43,16,Other streaming service,4,Yes,No,No,EDM,Yes,Yes,624
+646,9/13/2022 1:57:14,34,YouTube Music,2,No,No,No,Metal,Yes,No,136
+647,9/13/2022 2:17:14,21,YouTube Music,2,Yes,No,No,Pop,Yes,No,121
+648,9/13/2022 4:45:33,27,YouTube Music,3,Yes,No,No,Pop,No,No,113
+649,9/13/2022 5:57:53,18,Spotify,6,Yes,No,No,Folk,Yes,Yes,80
+650,9/13/2022 7:06:03,26,Spotify,3,No,No,No,Metal,Yes,No,140
+651,9/13/2022 7:12:07,37,Spotify,2,Yes,No,No,Rock,Yes,No,100
+652,9/13/2022 8:05:59,26,Spotify,5,Yes,Yes,No,Folk,Yes,Yes,92
+653,9/13/2022 8:36:33,19,Spotify,4,No,No,No,Pop,No,Yes,120
+654,9/13/2022 9:29:29,22,Spotify,4,Yes,No,No,Rock,Yes,No,93
+655,9/13/2022 11:16:37,43,I do not use a streaming service.,0,No,No,No,Rock,No,No,
+656,9/13/2022 13:18:32,24,I do not use a streaming service.,12,Yes,Yes,Yes,Rock,Yes,No,136
+657,9/13/2022 13:58:18,21,I do not use a streaming service.,0.5,No,No,No,Pop,No,No,108
+658,9/13/2022 16:16:16,28,I do not use a streaming service.,1,Yes,No,No,Rock,No,No,147
+659,9/13/2022 16:34:56,23,YouTube Music,3,Yes,No,No,R&B,Yes,Yes,93
+660,9/13/2022 22:19:10,20,Apple Music,12,No,No,No,Rock,Yes,Yes,98
+661,9/13/2022 23:06:06,17,Spotify,4,Yes,Yes,Yes,Metal,No,No,120
+662,9/14/2022 0:09:08,19,Spotify,3,Yes,No,No,R&B,No,No,130
+663,9/14/2022 0:58:57,32,Spotify,1,Yes,No,No,Metal,Yes,Yes,218
+664,9/14/2022 7:07:15,18,YouTube Music,4,No,No,No,Folk,Yes,Yes,123
+665,9/14/2022 9:56:39,20,Other streaming service,2,Yes,Yes,Yes,Rock,Yes,No,135
+666,9/14/2022 12:44:04,27,Spotify,3,Yes,No,No,Rock,Yes,Yes,105
+667,9/15/2022 0:33:58,15,Spotify,3,Yes,Yes,No,Rock,No,,132
+668,9/15/2022 9:41:28,26,Spotify,1,Yes,No,No,Rock,Yes,Yes,
+669,9/15/2022 11:09:46,24,Spotify,2,Yes,No,No,Pop,Yes,Yes,115
+670,9/15/2022 15:30:41,20,Spotify,1,Yes,No,No,K pop,Yes,Yes,120
+671,9/16/2022 1:47:01,21,YouTube Music,0.5,Yes,No,No,Pop,Yes,Yes,
+672,9/16/2022 9:24:53,16,Spotify,2,Yes,No,No,Video game music,No,No,149
+673,9/16/2022 21:55:32,21,Spotify,11,Yes,Yes,Yes,Metal,Yes,Yes,125
+674,9/18/2022 16:23:29,27,Spotify,10,Yes,Yes,Yes,Jazz,Yes,Yes,132
+675,9/18/2022 20:32:27,17,Spotify,5,Yes,Yes,No,Rock,Yes,No,110
+676,9/19/2022 8:12:47,21,Spotify,1.5,Yes,Yes,No,Classical,Yes,Yes,110
+677,9/19/2022 9:37:09,17,Spotify,2,Yes,No,No,Folk,Yes,Yes,116
+678,9/19/2022 18:34:27,21,Spotify,3,No,No,No,Rap,Yes,Yes,145
+679,9/19/2022 20:09:43,17,YouTube Music,2,No,No,Yes,Rock,Yes,No,
+680,9/19/2022 23:53:37,36,YouTube Music,3,Yes,No,No,Country,No,Yes,105
+681,9/21/2022 21:12:20,18,Spotify,4,No,No,No,R&B,Yes,Yes,80
+682,9/22/2022 12:32:45,18,Spotify,1,No,No,No,K pop,No,Yes,100
+683,9/22/2022 15:03:22,18,Apple Music,5,Yes,Yes,No,Latin,Yes,Yes,73
+684,9/23/2022 21:07:24,18,Apple Music,2,Yes,No,No,R&B,Yes,No,80
+685,9/23/2022 23:05:47,18,Spotify,7,Yes,No,No,Hip hop,Yes,Yes,
+686,9/23/2022 23:06:12,18,Spotify,2,Yes,No,No,Rap,Yes,Yes,
+687,9/23/2022 23:06:29,18,I do not use a streaming service.,1,Yes,No,No,Classical,No,No,120
+688,9/23/2022 23:43:10,18,I do not use a streaming service.,1,No,Yes,No,Classical,No,No,117
+689,9/24/2022 0:42:39,18,Spotify,4,Yes,No,No,R&B,No,No,
+690,9/24/2022 10:25:15,20,Spotify,6,Yes,No,No,R&B,Yes,Yes,89
+691,9/24/2022 10:59:12,19,Spotify,3,Yes,No,No,Hip hop,Yes,No,115
+692,9/25/2022 14:01:57,17,Spotify,4,Yes,No,No,Hip hop,Yes,No,144
+693,9/27/2022 8:17:33,23,Spotify,4,Yes,No,No,Video game music,Yes,Yes,105
+694,9/27/2022 11:46:56,18,YouTube Music,1,Yes,Yes,Yes,Pop,Yes,No,114
+695,9/27/2022 13:32:27,19,Spotify,2,Yes,Yes,No,Pop,Yes,Yes,145
+696,9/28/2022 17:25:48,89,Spotify,24,Yes,Yes,Yes,Rap,No,No,143
+697,9/28/2022 19:37:41,20,Spotify,5,Yes,Yes,Yes,R&B,Yes,Yes,128
+698,9/29/2022 17:54:15,16,Spotify,3,No,Yes,No,Rock,Yes,Yes,90
+699,10-02-22 7:52,17,Spotify,4,Yes,Yes,Yes,Country,Yes,Yes,110
+700,10-03-22 9:30,16,Spotify,9,Yes,No,No,Metal,No,Yes,130
+701,10-03-22 10:00,20,YouTube Music,1,Yes,No,No,Pop,No,Yes,
+702,10-03-22 10:25,30,YouTube Music,1,Yes,Yes,No,Rock,Yes,Yes,115
+703,10-03-22 10:53,37,Spotify,2,Yes,No,No,Folk,Yes,No,186
+704,10-03-22 11:30,44,YouTube Music,1.5,No,No,No,Folk,No,No,99
+705,10-03-22 13:01,21,Spotify,2,Yes,Yes,No,Metal,Yes,Yes,150
+706,10-03-22 13:47,19,Spotify,4,Yes,Yes,No,Pop,Yes,No,149
+707,10-03-22 15:38,23,Spotify,1,Yes,Yes,No,Rock,Yes,Yes,
+708,10-03-22 16:43,26,Spotify,1,No,No,No,Country,Yes,No,120
+709,10-03-22 20:03,18,Spotify,3,Yes,No,No,Video game music,Yes,Yes,140
+710,10-04-22 0:48,35,Spotify,4,Yes,Yes,Yes,Hip hop,Yes,No,90
+711,10-04-22 4:50,16,Spotify,8,Yes,Yes,Yes,Rock,Yes,No,120
+712,10-04-22 8:12,19,Spotify,5,Yes,No,No,Metal,Yes,Yes,210
+713,10-04-22 8:53,23,I do not use a streaming service.,3,Yes,No,No,Rock,No,No,
+714,10-04-22 14:50,17,YouTube Music,8,Yes,No,No,Pop,Yes,Yes,95
+715,10-04-22 19:33,29,Apple Music,1,No,No,No,Country,Yes,No,163
+716,10-04-22 19:43,21,Spotify,4,Yes,Yes,Yes,Pop,No,No,97
+717,10-05-22 8:58,17,Spotify,1,No,No,No,Metal,Yes,Yes,137
+718,10-05-22 12:30,23,Spotify,2,No,No,No,Rock,Yes,Yes,
+719,10-06-22 3:35,17,Spotify,1,Yes,Yes,No,Metal,Yes,Yes,70
+720,10-06-22 9:17,22,Spotify,3,Yes,No,No,Video game music,Yes,Yes,150
+721,10-09-22 22:15,17,Spotify,5,Yes,No,No,Hip hop,Yes,No,168
+722,10-11-22 15:46,19,Spotify,5,Yes,Yes,No,Pop,Yes,Yes,163
+723,10/14/2022 18:01:12,19,Spotify,4,Yes,No,No,Pop,Yes,Yes,140
+724,10/14/2022 20:42:26,16,Spotify,6,Yes,No,No,Pop,Yes,Yes,105
+725,10/15/2022 14:00:55,19,Spotify,6,Yes,No,No,Pop,Yes,Yes,78
+726,10/22/2022 15:20:29,13,Spotify,1,Yes,No,No,Video game music,Yes,No,128
+727,10/23/2022 20:50:27,18,Apple Music,18,Yes,No,No,EDM,Yes,No,90
+728,10/26/2022 19:45:54,26,YouTube Music,1,Yes,No,No,Metal,Yes,Yes,136
+729,10/30/2022 7:24:08,14,Other streaming service,7,Yes,Yes,No,Country,Yes,No,108
+730,10/30/2022 13:13:32,21,I do not use a streaming service.,0.5,No,No,No,Pop,Yes,No,95
+731,10/30/2022 13:15:26,21,Spotify,2,Yes,No,No,R&B,Yes,Yes,147
+732,10/30/2022 14:37:28,17,Spotify,2,Yes,Yes,No,Rock,Yes,Yes,120
+733,11-01-22 22:26,18,Spotify,1,Yes,Yes,No,Pop,Yes,Yes,160
+734,11-03-22 23:24,19,Other streaming service,6,Yes,No,Yes,Rap,Yes,No,120
+735,11-04-22 17:31,19,Spotify,5,Yes,Yes,No,Classical,No,No,170
+736,11-09-22 1:55,29,YouTube Music,2,Yes,No,No,Hip hop,Yes,Yes,98

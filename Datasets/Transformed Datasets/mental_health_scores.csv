@@ -1,0 +1,737 @@
+submission_id,anxiety,depression,insomnia,ocd,music_effects
+1,3,0,1,0,
+2,7,2,2,1,
+3,7,7,10,2,No effect
+4,9,7,3,3,Improve
+5,7,2,5,9,Improve
+6,8,8,7,7,Improve
+7,4,8,6,0,Improve
+8,5,3,5,3,Improve
+9,2,0,0,0,Improve
+10,2,2,5,1,Improve
+11,7,7,4,7,No effect
+12,1,0,0,1,Improve
+13,9,3,2,7,Improve
+14,2,1,2,0,Improve
+15,6,4,7,0,Improve
+16,7,5,4,1,Worsen
+17,8,8,4,3,Improve
+18,5,7,10,0,Improve
+19,7,5,0,3,Improve
+20,7,3,0,2,Improve
+21,6,9,3,0,Improve
+22,10,10,2,4,Improve
+23,6,7,5,4,Improve
+24,3,3,8,6,No effect
+25,10,6,8,10,Improve
+26,7,4,2,5,Improve
+27,8,6,10,5,Improve
+28,3,2,1,2,Improve
+29,6,6,4,5,Improve
+30,8,2,1,5,Improve
+31,7,7,2,0,Improve
+32,4,4,4,3,No effect
+33,9,8,2,3,Improve
+34,5,6,6,1,Improve
+35,0,0,0,0,No effect
+36,3,2,1,1,Improve
+37,6,8,0,2,Improve
+38,2,0,4,0,No effect
+39,9,8,1,0,No effect
+40,7,2,8,6,Improve
+41,4,2,3,4,Improve
+42,7,6,5,0,Improve
+43,3,2,10,0,No effect
+44,6,6,8,2,Improve
+45,1,0,8,2,No effect
+46,7,3,1,5,Improve
+47,8,9,3,0,No effect
+48,9,6,4,3,Improve
+49,7,9,5,0,Improve
+50,7,4,2,4,No effect
+51,0,0,0,0,Improve
+52,7,8,7,5,Improve
+53,10,6,3,10,No effect
+54,3,7,5,5,No effect
+55,8,7,4,3,Improve
+56,0,0,1,3,Improve
+57,8,6,2,10,No effect
+58,9,0,10,0,No effect
+59,6,4,2,3,Improve
+60,7,0,0,2,Improve
+61,10,1,0,0,Improve
+62,8,7,0,5,Improve
+63,3,2,6,7,Improve
+64,5,5,3,1,No effect
+65,10,10,3,1,Worsen
+66,5,4,10,2,Improve
+67,0,0,8,0,No effect
+68,8,8,5,10,Improve
+69,10,7,8,0,Improve
+70,7,3,1,1,Improve
+71,8,7,4,0,Improve
+72,10,2,0,5,No effect
+73,9,8,1,2,Improve
+74,6,3,1,1,Improve
+75,7,7,0,1,No effect
+76,7,7,8,4,Improve
+77,4,1,0,0,Improve
+78,7,2,1,5,Improve
+79,9,0,5,10,Improve
+80,2,7,1,1,Improve
+81,10,8,7,0,Improve
+82,3,0,0,0,Improve
+83,7,8,5,1,No effect
+84,2,1,0,0,Improve
+85,5,4,0,1,Improve
+86,9,10,6,10,No effect
+87,2,0,0,0,Improve
+88,5,2,5,1,Improve
+89,3,2,0,0,No effect
+90,2,0,7,0,No effect
+91,7,6,6,2,No effect
+92,5,4,8,3,No effect
+93,4,6,5,3,Improve
+94,6,2,3,1,Improve
+95,8,2,1,6,Improve
+96,9,6,0,6,Improve
+97,0,3,7,0,Improve
+98,8,9,6,2,Improve
+99,4,1,1,1,Improve
+100,8,7,5,0,Improve
+101,3,4,6,1,Improve
+102,1,1,3,1,Improve
+103,10,8,6,7,No effect
+104,6,6,2,0,No effect
+105,6,7,0,0,Improve
+106,8,4,10,0,No effect
+107,9,7,6,2,No effect
+108,7,4,6,5,Improve
+109,6,7,0,0,No effect
+110,10,0,10,10,Improve
+111,6,3,0,1,Improve
+112,7,5,5,3,Improve
+113,7,10,5,0,Improve
+114,8,6,0,0,Improve
+115,4,3,0,0,Improve
+116,7,6,7,5,Improve
+117,7,3,2,3,Improve
+118,2,7,5,0,Improve
+119,7,8,6,5,Improve
+120,4,7,1,0,Improve
+121,7,8,5,1,No effect
+122,5,2,8,6,Improve
+123,10,7,4,2,Improve
+124,6,5,0,0,No effect
+125,7,2,3,1,Improve
+126,4,7,7,3,Improve
+127,4,5,6,5,Improve
+128,7,10,5,6,Worsen
+129,6,4,5,0,Improve
+130,4,1,3,1,No effect
+131,6,6,1,2,Improve
+132,10,8,7,1,Improve
+133,10,8,2,8,Improve
+134,3,6,2,0,No effect
+135,8,9,2,0,Improve
+136,8,3,8,7,Improve
+137,3,3,1,2,Improve
+138,6,5,2,0,Improve
+139,0,0,4,0,No effect
+140,6,5,0,2,Improve
+141,3,8,0,0,Improve
+142,1,8,0,0,No effect
+143,5,6,6,3,Improve
+144,0,0,0,0,Improve
+145,0,8,0,0,Improve
+146,3,7,0,0,Improve
+147,8,8,8,5,Improve
+148,5,2,3,4,Improve
+149,8,8,3,0,Improve
+150,6,8,8,0,Improve
+151,6,8,6,0,Worsen
+152,6,6,7,5,Improve
+153,9,10,3,0,No effect
+154,7,7,5,0,Improve
+155,10,7,2,8,No effect
+156,1,3,0,6,No effect
+157,5,3,2,1,Improve
+158,6,8,1,6,Improve
+159,7,2,0,7,Improve
+160,6,9,9,0,Improve
+161,1,1,4,1,No effect
+162,0,2,0,0,
+163,8,8,2,0,Improve
+164,3,3,7,0,No effect
+165,8,8,3,0,Improve
+166,6,4,0,3,No effect
+167,1,0,0,0,Improve
+168,5,5,4,4,Improve
+169,8,9,6,0,
+170,8,8,7,6,Improve
+171,3,0,2,0,Improve
+172,0,5,1,0,No effect
+173,6,3,0,0,Improve
+174,1,7,5,1,Improve
+175,4,2,1,1,No effect
+176,5,6,0,1,No effect
+177,1,0,0,0,No effect
+178,8,6,5,2,Improve
+179,9,4,0,3,Improve
+180,4,6,6,4,Improve
+181,7,3,1,5,Improve
+182,10,3,1,0,No effect
+183,8,8,3,0,Improve
+184,7,6,5,4,Improve
+185,7,2,3,5,Improve
+186,10,3.5,5,10,Improve
+187,7,5,1,2,Improve
+188,6,8,9,5,Improve
+189,2,9,2,1,No effect
+190,7,4,10,2,Improve
+191,7,5,6,0,Improve
+192,6,1,0,0,Improve
+193,3,6,1,1,Improve
+194,9,10,3,0,Improve
+195,8,5,8,9,Improve
+196,8,7,7,3,Improve
+197,9,9,9,3,No effect
+198,9,8,9,7,Improve
+199,9,3,7,8,Improve
+200,10,8,6,2,Improve
+201,9,6,3,0,Improve
+202,7,7,8,3,Improve
+203,9,10,4,0,Improve
+204,9,9,8,2,Improve
+205,9,10,3,9,Improve
+206,10,9,8,8,Improve
+207,6,5,6,8,Improve
+208,8,6,10,3,Improve
+209,8,3,6,4,Improve
+210,4,2,1,3,Improve
+211,2,1,1,1,No effect
+212,10,10,7,3,Improve
+213,8,9,0,0,Improve
+214,4,9,6,2,No effect
+215,4,2,0,0,Improve
+216,9,2,7,7,Improve
+217,8,6,7,5,Improve
+218,6,5,4,2,Improve
+219,8,5,2,3,Improve
+220,7,6,6,1,No effect
+221,10,2,0,0,Improve
+222,6,0,0,0,Improve
+223,2,0,1,0,Improve
+224,3,7,5,2,Improve
+225,9,0,2,0,Improve
+226,5,4,1,1,Improve
+227,8,4,0,1,Improve
+228,8,10,2,0,Improve
+229,3,6,2,1,No effect
+230,4,4,2,1,Improve
+231,7,5,2,6,Improve
+232,3,2,0,0,No effect
+233,9,9,5,1,Improve
+234,3,10,4,1,No effect
+235,9,0,5,0,No effect
+236,7,6,6,5,Improve
+237,0,9,4,0,Improve
+238,2,2,2,1,No effect
+239,6,9,2,1,Improve
+240,6,4,1,0,Improve
+241,8,9,4,0,Improve
+242,6,7,4,3,Improve
+243,7,2,2,0,Improve
+244,8,6,5,6,No effect
+245,3,10,0,0,Worsen
+246,9,4,9,7,Improve
+247,7,9,2,8,Worsen
+248,10,3,1,4,Improve
+249,0,0,0,1,No effect
+250,9,6,1,7,No effect
+251,7,1,3,5,Improve
+252,9,7,5,7,Improve
+253,3,1,2,7,Improve
+254,6,6,8,0,Improve
+255,10,6,0,4,Improve
+256,6,3,1,1,Improve
+257,3,3,0,7,No effect
+258,9,10,2,2,No effect
+259,7,5,0,2,No effect
+260,3,0,4,4,No effect
+261,9,9,6,4,Improve
+262,5,7,7,2,Improve
+263,0,8,0,5,Improve
+264,8,4,3,4,Improve
+265,7,2,0,7,No effect
+266,9,9,6,9,No effect
+267,5,7,5,4,Improve
+268,5,1,0,0,Improve
+269,4,1,3,0,Improve
+270,3,5,3,0,Improve
+271,2,2,0,6,Improve
+272,0,1,3,5,Improve
+273,7,8,6,2,Improve
+274,6,4,8,8,Improve
+275,5,6,8,2,Improve
+276,6,6,2,6,No effect
+277,8,9,3,4,Improve
+278,8,4,3,3,Worsen
+279,8,6,5,7,Improve
+280,8,8,7,7,Improve
+281,5,2,5,0,Improve
+282,6,8,4,2,No effect
+283,7,5,2,1,No effect
+284,8,8,7,1,Improve
+285,10,2,0,0,Improve
+286,8,7,7,5,Improve
+287,8,8,8,6,Improve
+288,8,10,9,2,Improve
+289,6,1,8,4,No effect
+290,0,4,4,0,Improve
+291,8,10,10,8,No effect
+292,3,2,0,1,No effect
+293,5,3,3,1,Improve
+294,8,9,6,1,Improve
+295,10,3,0,10,No effect
+296,6,7,8,2,Improve
+297,7,4,7,0,Improve
+298,9,8,6,2,Improve
+299,8,0,0,0,Improve
+300,8,9,2,5,No effect
+301,7,2,3,0,Improve
+302,10,10,4,0,Improve
+303,8,8,3,3,Improve
+304,8,7,7,4,Improve
+305,8,7,1,2,Improve
+306,6,5,10,2,No effect
+307,7,6,0,4,Improve
+308,7,4,0,0,Improve
+309,8,7,2,10,No effect
+310,4,4,4,0,Improve
+311,0,0,2,0,No effect
+312,6,4,0,1,Improve
+313,4,7,0,0,Improve
+314,8,4,3,0,No effect
+315,5,5,3,3,Improve
+316,0,8,0,0,Improve
+317,7,4,6,1,Improve
+318,8,7,7,3,No effect
+319,9,8,6,2,Improve
+320,8,6,4,0,Improve
+321,7,2,0,8,Improve
+322,6,7,7,7,No effect
+323,7,6,4,2,Improve
+324,1,1,1,0,Improve
+325,1,1,3,0,Improve
+326,2,7,1,2,Improve
+327,6,2,3,1,No effect
+328,7,7,3,2,No effect
+329,8,7,0,3,No effect
+330,8,3,5,2,Improve
+331,5,4,2,0,Improve
+332,7,10,10,1,Improve
+333,7,6,8,4,Improve
+334,8,7,0,9,Improve
+335,10,7,3,3,No effect
+336,6,5,5,3,Improve
+337,8,7,6,8,No effect
+338,10,7,7,3,Worsen
+339,10,10,5,7,
+340,8,2,2,8,No effect
+341,3,7,4,0,Improve
+342,9,7,5,5,Improve
+343,5,3,0,0,Improve
+344,10,7,0,10,Improve
+345,8,0,0,3,Improve
+346,6,0,3,0,Improve
+347,7,9,4,6,Improve
+348,3,2,5,6,Improve
+349,4,2,0,0,Improve
+350,4,2,0,0,Improve
+351,5,3,1,0,No effect
+352,4,2,2,1,Improve
+353,4,0,6,5,No effect
+354,7,6,3,1,Improve
+355,7,8,6,2,Improve
+356,3,4,1,1,Improve
+357,9,7,2,1,Improve
+358,10,9,3,2,Improve
+359,9,9,7,3,Improve
+360,8,10,9,2,Improve
+361,8,9,6,4,Improve
+362,5,6,9,9,Improve
+363,9,3,7,2,Improve
+364,3,2,1,6,Improve
+365,7,7,4,0,Improve
+366,7,9,1,2,Improve
+367,5,1,9,1,Improve
+368,3,3,0,0,Improve
+369,8,7,5,4,Improve
+370,8,2,1,1,Improve
+371,4,0,0,0,Improve
+372,9,6,1,1,Improve
+373,10,7,2,0,Improve
+374,8,7,7,4,Improve
+375,1,0,0,0,Improve
+376,5,7,1,4,Improve
+377,7,6,9,2,Improve
+378,8,8,2,2,Improve
+379,2,2,8,0,No effect
+380,6,0,0,2,Improve
+381,2,0,1,0,Improve
+382,6,2,6,7,No effect
+383,6,1,0,5,Improve
+384,7,6,4,0,Improve
+385,0,0,3,0,Improve
+386,9,7,10,6,No effect
+387,10,0,0,0,No effect
+388,6,6,3,0,Improve
+389,4,3,1,6,Improve
+390,6,2,2,1,No effect
+391,2,2,3,2,Improve
+392,7,4,5,6,Improve
+393,7,5,3,2,Improve
+394,8,5,10,3,Improve
+395,7,5,6,5,Improve
+396,6,8,8,2,Improve
+397,1,2,4,3,Improve
+398,3,2,0,2,Improve
+399,6,7,7,4,Improve
+400,6,7,2,0,No effect
+401,9,8,4,8,Improve
+402,7,7,2,1,Improve
+403,1,0,1,0,Improve
+404,4,3,4,5,Improve
+405,2,0,0,0,Improve
+406,0,5,7,0,No effect
+407,8,7,7,0,Improve
+408,5,10,8,0,No effect
+409,8,7,9,2,Improve
+410,9,6,8,5,Improve
+411,2,2,7,0,No effect
+412,7,8,6,2,Improve
+413,10,10,8,2,No effect
+414,8,5,2,3,Improve
+415,7,8,2,5,Improve
+416,1,1,2,0,Improve
+417,9,10,10,3,No effect
+418,9,4,4,4,Improve
+419,8,2,4,0,No effect
+420,1,1,5,1,Improve
+421,10,9,9,8,Improve
+422,3,0,2,3,Improve
+423,4,0,4,0,Improve
+424,2,3,5,2,Improve
+425,2,3,3,0,Improve
+426,8,4,3,0,Improve
+427,10,10,10,7,Improve
+428,8,8,9,3,Improve
+429,0,1,0,2,Improve
+430,5,4,0,1,Improve
+431,7.5,5,7,8.5,Improve
+432,3,3,0,0,Improve
+433,7,5,3,1,Improve
+434,8,0,1,6,Improve
+435,6,4,1,1,Improve
+436,8,8,7,10,No effect
+437,10,8,9,5,Improve
+438,3,0,2,0,Improve
+439,5,5,7,1,Worsen
+440,7,7,6,5,Improve
+441,7,4,6,3,Improve
+442,3,3,1,0,
+443,4,0,0,2,Worsen
+444,3,0,6,9,Improve
+445,5,1,6,0,Improve
+446,10,6,8,0,Improve
+447,7,5,1,2,No effect
+448,7,7,0,4,No effect
+449,6,0,0,0,Improve
+450,6,2,3,2,Improve
+451,7,6,7,9,Improve
+452,5,7,7,0,No effect
+453,7,6,4,3,Improve
+454,2,2,2,0,Improve
+455,9,5,0,7,Improve
+456,3,7,8,0,Worsen
+457,4,5,9,1,Improve
+458,1,0,7,0,Improve
+459,3,2,0,2,No effect
+460,1,6,1,2,Improve
+461,8,10,4,0,No effect
+462,8,10,10,0,No effect
+463,3,0,8,1,No effect
+464,3,4,1,0,Improve
+465,2,1,2,2,Improve
+466,0,0,0,0,No effect
+467,8,8,5,0,Improve
+468,1,1,1,0,No effect
+469,8,7,6,2,Improve
+470,6,5,4,0,No effect
+471,5,4,6,2,Improve
+472,3,1,0,2,No effect
+473,4,8,2,2,Improve
+474,5,6,3,1,Improve
+475,0,0,2,1,Improve
+476,7,6,7,4,Improve
+477,8,5,6,1,Improve
+478,4,4,2,0,Improve
+479,9,8,10,9,Improve
+480,5,5,7,0,Improve
+481,4,6,8,1,Improve
+482,4,8,5,0,Improve
+483,9,10,6,7,Improve
+484,3,2,2,2,Improve
+485,6,2,2,1,Improve
+486,2,0,3,0,No effect
+487,10,8,0,4,Improve
+488,4,4,2,2,Improve
+489,7,8,6,2,Improve
+490,7,6,5,5,Improve
+491,1,0,0,0,Improve
+492,6,2,8,0,Improve
+493,4,5,7,0,No effect
+494,10,7,0,0,Improve
+495,4,2,1,0,Improve
+496,7,6,2,3,Improve
+497,3,2,8,0,Improve
+498,10,7,4,3,Improve
+499,4,0,0,0,No effect
+500,7,7,0,0,Improve
+501,6,7,4,1,Improve
+502,7,6,2,7,Improve
+503,6,5,8,0,Improve
+504,10,10,2,3,Improve
+505,7,6,5,1,Improve
+506,3,0,0,0,Improve
+507,8,2,1,0,No effect
+508,7,6,6,5,Improve
+509,3,2,5,0,No effect
+510,8,2,1,0,Improve
+511,7,7,2,4,Improve
+512,5,1,1,1,Improve
+513,1,2,1,0,No effect
+514,2,1,2,2,Improve
+515,5,2,4,0,Improve
+516,7,2,1,0,Improve
+517,10,10,7,8,Improve
+518,7,2,1,6,Improve
+519,6,4,1,0,Improve
+520,5,9,6,1,Improve
+521,7,5,7,0,Improve
+522,7,6,7,4,Improve
+523,0,0,0,0,Improve
+524,3,5,0,2,No effect
+525,8,8,5,2,Improve
+526,8,7,10,6,Improve
+527,2,4,5,2,Improve
+528,7,3,9,2,Improve
+529,8,7,4,4,Improve
+530,0,0,0,5,No effect
+531,8,6,9,8,Improve
+532,4,2,3,2,Improve
+533,3,2,2,2,
+534,6,4,10,0,Improve
+535,8,8,10,0,Improve
+536,5,5,5,5,Improve
+537,10,8,6,2,No effect
+538,0,0,7,0,Improve
+539,8,8,10,0,Improve
+540,8,2,0,0,No effect
+541,7,8,4,10,Improve
+542,0,2,0,1,Improve
+543,3,5,4,0,Improve
+544,5,2,3,1,Improve
+545,6,1,0,0,Improve
+546,6,3,4,2,Improve
+547,5,6,8,2,Improve
+548,8,4,7,5,Improve
+549,1,1,2,3,Improve
+550,8,3,1,3,Improve
+551,3,3,0,0,Improve
+552,0,0,0,0,No effect
+553,5,4,2,0,No effect
+554,2,4,0,0,Improve
+555,4,6,0,2,Improve
+556,5,7,2,0,Improve
+557,4,0,7,0,No effect
+558,10,8,6,2,No effect
+559,3,3,1,0,Improve
+560,8,7,2,1,Improve
+561,3,3,0,3,Improve
+562,4,5,2,5,
+563,10,10,8,10,Improve
+564,10,2,7,8,Improve
+565,9,6,8,5,Improve
+566,6,4,1,6,Improve
+567,3,4,6,8,Improve
+568,10,10,10,0,Improve
+569,4,8,8,4,No effect
+570,3,0,0,0,Improve
+571,1,0,0,0,Improve
+572,5,6,7,7,No effect
+573,7,0,3,1,No effect
+574,10,8,8,9,Improve
+575,3,0,3,4,Improve
+576,1,0,0,1,No effect
+577,6,6,0,0,Improve
+578,4,3,4,0,Improve
+579,6,4,0,0,Improve
+580,2,6,3,0,Worsen
+581,8,3,3,3,Improve
+582,8,10,7,3,No effect
+583,1,0,0,1,Improve
+584,8,6,6,8,Improve
+585,6,3,1,7,Improve
+586,2,0,3,0,Improve
+587,0,0,0,0,No effect
+588,10,10,6,6,Improve
+589,3,0,0,1,Improve
+590,7,9,10,0,Improve
+591,8,7,6,2,Improve
+592,2,0,10,10,Improve
+593,10,7,9,3,No effect
+594,6,0,0,0,Improve
+595,3,0,2,2,Improve
+596,6,5,9,8,Improve
+597,7,6,5,8,Improve
+598,10,7,8,6,Improve
+599,0,3,9,5,No effect
+600,0,2,1,5,Improve
+601,2,0,0,0,No effect
+602,2,2,4,0,No effect
+603,5,6,3,4,No effect
+604,0,0,1,0,No effect
+605,5,4,3,7,Improve
+606,2,7,0,0,Improve
+607,0,6,0,4,Improve
+608,0,0,0,0,Improve
+609,7,5,1,3,Improve
+610,7,5,3,1,No effect
+611,3,3,1,8,No effect
+612,7,10,4,7,Worsen
+613,3,2,3,0,Improve
+614,5,1,1,9,Improve
+615,8,9,4,10,Improve
+616,4,8,0,0,Improve
+617,7,9,7,0,Improve
+618,1,5,6,4,No effect
+619,3,2,1,0,No effect
+620,6,8,0,0,Improve
+621,6,3,6,0,Improve
+622,7,4,8,0,Improve
+623,2,6,9,1,No effect
+624,8,5,3,8,Improve
+625,3,3,0,0,Improve
+626,7,5,3,3,Improve
+627,4,8,2,3,Improve
+628,3,0,0,5,Improve
+629,10,7,3,2,Improve
+630,10,4,8,0,Improve
+631,2,2,0,0,Improve
+632,8,7,7,3,Improve
+633,10,5,2,8,Improve
+634,9,10,10,6,No effect
+635,5,2,1,6,Improve
+636,4,8,9,1,Improve
+637,7,8,5,3,Improve
+638,2,2,0,3,No effect
+639,10,3,0,4,Improve
+640,10,10,10,9,Improve
+641,3,7,7,4,No effect
+642,7,5,7,7,Improve
+643,7,4,8,8,Improve
+644,7,9,4,5,Improve
+645,4,7,1,3,Improve
+646,5,9,9,6,Improve
+647,5,4,10,7,No effect
+648,7,2,0,1,Improve
+649,8,6,0,2,Improve
+650,1,3,10,0,No effect
+651,8,10,10,2,Worsen
+652,4,7,6,0,No effect
+653,9,6,3,0,No effect
+654,10,7,4,4,Improve
+655,1,2,2,0,No effect
+656,7,10,0,8,Improve
+657,10,2,1,10,Worsen
+658,2,1,2,2,Improve
+659,3,10,0,0,No effect
+660,7,10,2,0,Improve
+661,4,2,0,0,Improve
+662,4,2,5,3,Improve
+663,6,8,7,0,Improve
+664,8,6,4,0,Improve
+665,2,2,0,0,No effect
+666,8,7,9,3,Improve
+667,4,3,5,0,No effect
+668,6,1,0,4,No effect
+669,6,6,3,6,Improve
+670,8,7,1,1,No effect
+671,5,3,4,1,Improve
+672,6,2,4,3,Improve
+673,5,6,6,0,Improve
+674,6,10,8,1,Improve
+675,7,3,9,7,Improve
+676,4,6,0,0,No effect
+677,9,4,0,1,Improve
+678,9,7,7,5,Improve
+679,5,10,2,7,No effect
+680,1,0,1,0,Improve
+681,8,7,2,6,Improve
+682,5,1,4,0,Improve
+683,10,6,0,0,Improve
+684,7,5,5,5,Improve
+685,3,1,0,3,Improve
+686,5,8,7,4,Improve
+687,2,0,0,5,No effect
+688,7,0,0,0,No effect
+689,8,0,0,2,No effect
+690,4,1,1,0,Improve
+691,3,8,0,2,Improve
+692,7,0,2,2,Improve
+693,10,8,10,0,Improve
+694,7,1,1,1,Improve
+695,5,9,1,7,No effect
+696,0,0,0,0,No effect
+697,10,6,3,8,Improve
+698,7,3.5,3.5,5.5,Improve
+699,2,0,0,2,Improve
+700,10,10,10,8,Improve
+701,8,9,6,5,Worsen
+702,9,7,8,4,Improve
+703,6,4,5,0,Improve
+704,8,5,9,4,Improve
+705,3,7,0,0,Improve
+706,9,1,0,9,Improve
+707,8,6,1,4,Improve
+708,4,1,1,6,Improve
+709,6,5,3,1,No effect
+710,7,8,6,5,Improve
+711,8,9,5,10,Improve
+712,8,6,7,0,Improve
+713,10,5,2,0,Improve
+714,5,2,4,7,No effect
+715,9,3,2,0,No effect
+716,4,6,3,4,Improve
+717,9,8,4,0,Improve
+718,5,7,10,2,No effect
+719,8,3,9,2,No effect
+720,10,10,6,8,Improve
+721,7,7,5,5,Improve
+722,10,8,1,0,Improve
+723,8,6,2,0,Improve
+724,10,7,6,10,Improve
+725,6,6,8,0,Improve
+726,10,10,8,4,Worsen
+727,9,8,5,10,Improve
+728,0,0,0,0,No effect
+729,7,3,1,2,Improve
+730,6,2,2,0,Improve
+731,7,6,4,6,Improve
+732,7,6,0,9,Improve
+733,3,2,2,5,Improve
+734,2,2,2,2,Improve
+735,2,3,2,1,Improve
+736,2,2,2,5,Improve
